@@ -1,0 +1,161 @@
+Report for Institution Code CMN, Resource cmn_amphibian_reptile
+Usage stats for March 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 111
+Number of records retrieved in searches: 8007
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 9
+	Country: Brazil ; Times: 2
+	Country: Israel ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 1
+	Country: India ; Times: 1
+	Country: United States ; Times: 79
+	Country: Sweden ; Times: 3
+	Country: Germany ; Times: 2
+	Country: United Kingdom ; Times: 3
+	Country: Colombia ; Times: 3
+	Country: Belgium ; Times: 2
+	Country: China ; Times: 1
+	Country: Russia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-28 ; Times: 1
+	Date: 2018-03-29 ; Times: 2
+	Date: 2018-03-16 ; Times: 5
+	Date: 2018-03-15 ; Times: 2
+	Date: 2018-03-13 ; Times: 7
+	Date: 2018-03-12 ; Times: 2
+	Date: 2018-03-11 ; Times: 4
+	Date: 2018-03-10 ; Times: 1
+	Date: 2018-03-30 ; Times: 1
+	Date: 2018-03-19 ; Times: 5
+	Date: 2018-03-01 ; Times: 5
+	Date: 2018-03-02 ; Times: 3
+	Date: 2018-03-03 ; Times: 3
+	Date: 2018-03-05 ; Times: 3
+	Date: 2018-03-06 ; Times: 8
+	Date: 2018-03-07 ; Times: 26
+	Date: 2018-03-08 ; Times: 2
+	Date: 2018-03-09 ; Times: 7
+	Date: 2018-03-24 ; Times: 6
+	Date: 2018-03-25 ; Times: 2
+	Date: 2018-03-22 ; Times: 2
+	Date: 2018-03-23 ; Times: 1
+	Date: 2018-03-20 ; Times: 1
+	Date: 2018-03-21 ; Times: 2
+	Date: 2018-03-27 ; Times: 2
+	Date: 2018-03-26 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "Pelophylax ridibundus" ; Times: 1
+	Query: "34047" ; Times: 1
+	Query: "Reptilia Texas gray county" ; Times: 1
+	Query: "Crocodylus niloticus" ; Times: 3
+	Query: "R 23339" ; Times: 1
+	Query: "catalognumber:26157" ; Times: 1
+	Query: "Crotalus tigris" ; Times: 2
+	Query: "Eunectes murinus" ; Times: 3
+	Query: "26861" ; Times: 1
+	Query: "celestus jamaica" ; Times: 1
+	Query: "ambystoma hybrid" ; Times: 1
+	Query: "26356" ; Times: 1
+	Query: "24890" ; Times: 1
+	Query: "recordedby:Hinds" ; Times: 1
+	Query: "cyrtodactylus peguensis" ; Times: 17
+	Query: "Amphisbaena alba" ; Times: 1
+	Query: "crotalus mitchelli arizona" ; Times: 1
+	Query: "(Lithobates catesbeianus)" ; Times: 8
+	Query: "16003" ; Times: 1
+	Query: "sphenodon" ; Times: 1
+	Query: "wizard" ; Times: 2
+	Query: "35919" ; Times: 1
+	Query: "Crotalus viridis helleri" ; Times: 2
+	Query: "33640" ; Times: 1
+	Query: "16171" ; Times: 3
+	Query: "Lamprophis aurora" ; Times: 1
+	Query: "crotalus mitchelli maricopa" ; Times: 1
+	Query: "Paleosuchus" ; Times: 2
+	Query: "18525" ; Times: 1
+	Query: "catalognumber:27577" ; Times: 1
+	Query: "eleutherodactylus frater" ; Times: 1
+	Query: "catalognumber:7360" ; Times: 1
+	Query: "Lithobates pipiens" ; Times: 8
+	Query: "pseudotriton montanus" ; Times: 3
+	Query: "21570" ; Times: 1
+	Query: "Allobates chalcopis" ; Times: 2
+	Query: "cuora amboinensis" ; Times: 1
+	Query: "(Lithobates sylvaticus)" ; Times: 9
+	Query: "Canadian Museum of Nature" ; Times: 1
+	Query: "rana lessonae" ; Times: 1
+	Query: "Thamnophis sirtalis jefferson" ; Times: 1
+	Query: "louisiana hemidactylus turcicus" ; Times: 1
+	Query: "26996" ; Times: 1
+	Query: "Crotalus horridus stateprovince:&#34;Pennsylvania&#34; year &gt;= 1970 year &lt;= 2018" ; Times: 1
+	Query: "locality:Watauga stateprovince:&#34;Tennessee&#34;" ; Times: 1
+	Query: "catalognumber:5477" ; Times: 1
+	Query: "Pinal county crotalus" ; Times: 1
+	Query: "scaphiopus maryland" ; Times: 1
+	Query: "McAllen" ; Times: 1
+	Query: "Thamnophis sirtalis boulder" ; Times: 3
+	Query: "catalognumber:20841" ; Times: 1
+	Query: "Chamaeleo pumilus" ; Times: 2
+	Query: "catalognumber:24417" ; Times: 1
+	Query: "institutioncode:CMN" ; Times: 2
+	Query: "hydrophis caerulescens" ; Times: 1
+	Query: "canadian museum of nature" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 23 (out of 1284 download events in this period)
+Total number of records downloaded: 642
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 8
+	Country: Mexico ; Times: 10
+	Country: Germany ; Times: 3
+	Country: Belgium ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-02 ; Times: 1
+	Date: 2018-03-23 ; Times: 1
+	Date: 2018-03-15 ; Times: 2
+	Date: 2018-03-14 ; Times: 1
+	Date: 2018-03-13 ; Times: 1
+	Date: 2018-03-06 ; Times: 2
+	Date: 2018-03-10 ; Times: 1
+	Date: 2018-03-26 ; Times: 4
+	Date: 2018-03-27 ; Times: 1
+	Date: 2018-03-25 ; Times: 2
+	Date: 2018-03-22 ; Times: 1
+	Date: 2018-03-30 ; Times: 2
+	Date: 2018-03-21 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Kinixys vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "pseudotriton montanus" ; Times: 1
+	Query: "crotalus pricei" ; Times: 1
+	Query: "locality:Watauga stateprovince:&#34;Tennessee&#34;" ; Times: 1
+	Query: "Gekko gecko" ; Times: 1
+	Query: "eleutherodactylus portoricensis" ; Times: 1
+	Query: "sceloporus scalaris" ; Times: 1
+	Query: "chiromantis rufescens" ; Times: 1
+	Query: "locality:Watauga stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "phrynosoma cornutum" ; Times: 1
+	Query: "python regius" ; Times: 1
+	Query: "Ceratophrys" ; Times: 1
+	Query: "Aneides ferreus" ; Times: 1
+	Query: "crotalus lepidus" ; Times: 2
+	Query: "ambystoma texanum" ; Times: 1
+	Query: "Pelomedusa" ; Times: 1
+	Query: "ambystoma rosaceum" ; Times: 4
+	Query: "ambystoma maculatum" ; Times: 1
+
+
+End of report.
