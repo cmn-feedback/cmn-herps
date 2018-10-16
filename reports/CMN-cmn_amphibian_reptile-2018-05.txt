@@ -1,0 +1,284 @@
+Report for Institution Code CMN, Resource cmn_amphibian_reptile
+Usage stats for May 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 122
+Number of records retrieved in searches: 360
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 7
+	Country: India ; Times: 1
+	Country: France ; Times: 8
+	Country: United States ; Times: 86
+	Country: Guatemala ; Times: 1
+	Country: Germany ; Times: 3
+	Country: Colombia ; Times: 5
+	Country: Puerto Rico ; Times: 2
+	Country: Spain ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-28 ; Times: 8
+	Date: 2018-05-29 ; Times: 7
+	Date: 2018-05-20 ; Times: 1
+	Date: 2018-05-21 ; Times: 6
+	Date: 2018-05-22 ; Times: 5
+	Date: 2018-05-23 ; Times: 3
+	Date: 2018-05-24 ; Times: 8
+	Date: 2018-05-25 ; Times: 5
+	Date: 2018-05-26 ; Times: 1
+	Date: 2018-05-27 ; Times: 2
+	Date: 2018-05-06 ; Times: 1
+	Date: 2018-05-07 ; Times: 10
+	Date: 2018-05-04 ; Times: 1
+	Date: 2018-05-05 ; Times: 1
+	Date: 2018-05-02 ; Times: 3
+	Date: 2018-05-01 ; Times: 3
+	Date: 2018-05-08 ; Times: 13
+	Date: 2018-05-09 ; Times: 4
+	Date: 2018-05-30 ; Times: 3
+	Date: 2018-05-15 ; Times: 11
+	Date: 2018-05-14 ; Times: 7
+	Date: 2018-05-16 ; Times: 3
+	Date: 2018-05-11 ; Times: 1
+	Date: 2018-05-10 ; Times: 2
+	Date: 2018-05-12 ; Times: 5
+	Date: 2018-05-19 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "distance(location,geopoint(44.1953112460001,-90.2914159755))&lt;22242" ; Times: 2
+	Query: "distance(location,geopoint(42.6495013578174,-85.3872811613869))&lt;14725" ; Times: 2
+	Query: "distance(location,geopoint(48.485831828,-95.0056130685))&lt;51608" ; Times: 1
+	Query: "distance(location,geopoint(43.8214476702145,-91.3120372855))&lt;21629" ; Times: 2
+	Query: "vntype:specimen locality:MIRAFLORES country:&#34;ARGENTINA&#34;" ; Times: 1
+	Query: "liochlorophis" ; Times: 1
+	Query: "Paramesotriton hongkongensis" ; Times: 2
+	Query: "Eleutherodactylus portoricensis" ; Times: 2
+	Query: "distance(location,geopoint(38.577664207733,-91.2675336119972))&lt;64555" ; Times: 1
+	Query: "Ambystoma cingulatum" ; Times: 2
+	Query: "Hoplobatrachus tigerinus" ; Times: 1
+	Query: "thamnophis brachystoma pennsylvania year &gt;= 1970 year &lt;= 2018" ; Times: 1
+	Query: "lacerta agilis" ; Times: 1
+	Query: "Alvarius" ; Times: 1
+	Query: "Heterodon nasicus gloydi" ; Times: 1
+	Query: "Bolitoglossa macrinii" ; Times: 1
+	Query: "west virginia eurycea lucifuga" ; Times: 1
+	Query: "Ctenosaura acanthura" ; Times: 1
+	Query: "distance(location,geopoint(45.5426280460001,-94.638845168))&lt;45992" ; Times: 2
+	Query: "distance(location,geopoint(42.2832807888075,-83.1083580444698))&lt;9603" ; Times: 2
+	Query: "distance(location,geopoint(45.1758107335,-95.006240064))&lt;32848" ; Times: 2
+	Query: "Ambystoma macrodactylum krausei" ; Times: 1
+	Query: "Agkistrodon contortrix stateprovince:&#34;Massachusetts&#34;" ; Times: 1
+	Query: "crocodylus niloticus" ; Times: 9
+	Query: "36458" ; Times: 1
+	Query: "monroe sistrurus" ; Times: 2
+	Query: "cnemidophorus lacertoides" ; Times: 1
+	Query: "wizard" ; Times: 1
+	Query: "eunectes murinus" ; Times: 2
+	Query: "Paramesotriton deloustali" ; Times: 2
+	Query: "distance(location,geopoint(39.070019590351,-93.3608964360506))&lt;77242" ; Times: 3
+	Query: "31227 amphibia" ; Times: 1
+	Query: "distance(location,geopoint(42.0904418740985,-83.1130695620183))&lt;9302" ; Times: 1
+	Query: "18002" ; Times: 1
+	Query: "lampropeltis triangulum new jersey" ; Times: 1
+	Query: "Paleosuchus palpebrosus" ; Times: 4
+	Query: "enhydris bocourti" ; Times: 1
+	Query: "catalognumber:1852" ; Times: 1
+	Query: "locality:McKay" ; Times: 1
+	Query: "lithobates pipiens arizona" ; Times: 3
+	Query: "distance(location,geopoint(46.9340888008072,-95.7192915126383))&lt;56921" ; Times: 1
+	Query: "Testudo horsfieldii" ; Times: 2
+	Query: "podocnemis expansa" ; Times: 1
+	Query: "L. catesbeianus" ; Times: 1
+	Query: "distance(location,geopoint(45.1119865645001,-94.506924154))&lt;30886" ; Times: 2
+	Query: "phrynosoma cornutum stateprovince:&#34;new mexico&#34;" ; Times: 2
+	Query: "31227" ; Times: 2
+	Query: "Haideotriton wallacei" ; Times: 1
+	Query: "Odontophrynus occidentalis" ; Times: 1
+	Query: "Platysternon" ; Times: 1
+	Query: "Paramesotriton caudopunctatus" ; Times: 1
+	Query: "Bolitoglossa biseriata" ; Times: 1
+	Query: "35076" ; Times: 1
+	Query: "Salamandrella keyserlingii" ; Times: 1
+	Query: "24432" ; Times: 1
+	Query: "dendroaspis angusticeps" ; Times: 8
+	Query: "heloderma horridum" ; Times: 1
+	Query: "catalognumber:6490 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Anaxyrus houstonensis" ; Times: 1
+	Query: "distance(location,geopoint(42.186861331453,-83.1081271922452))&lt;9629" ; Times: 2
+	Query: "virginia eurycea lucifuga" ; Times: 1
+	Query: "Ambystoma bishopi" ; Times: 1
+	Query: "Bombina variegata" ; Times: 2
+	Query: "Leiopelma hochstetteri" ; Times: 1
+	Query: "37232" ; Times: 1
+	Query: "catalognumber:9336" ; Times: 1
+	Query: "Masticophis taeniatus Nevada" ; Times: 1
+	Query: "37184" ; Times: 1
+	Query: "Phrynosoma cornutum stateprovince:&#34;new mexico&#34;" ; Times: 2
+	Query: "crotalus cerastes nevada" ; Times: 1
+	Query: "Psammophis leithi" ; Times: 1
+	Query: "distance(location,geopoint(38.65875276895,-91.2511227055))&lt;55931" ; Times: 2
+	Query: "Ceratophrys ornata" ; Times: 1
+	Query: "distance(location,geopoint(44.1377106245001,-90.1674187625))&lt;13571" ; Times: 2
+	Query: "ctenosaura acanthura" ; Times: 1
+	Query: "Leiopelma archeyi" ; Times: 1
+	Query: "Ranodon sibiricus" ; Times: 1
+	Query: "ameiva exsul" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 112 (out of 1178 download events in this period)
+Total number of records downloaded: 13036
+Number of different countries: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: United States ; Times: 15
+	Country: Australia ; Times: 1
+	Country: South Africa ; Times: 1
+	Country: Unknown ; Times: 2
+	Country: Mexico ; Times: 25
+	Country: United Kingdom ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Thailand ; Times: 1
+	Country: Spain ; Times: 61
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-28 ; Times: 3
+	Date: 2018-05-20 ; Times: 2
+	Date: 2018-05-21 ; Times: 7
+	Date: 2018-05-22 ; Times: 4
+	Date: 2018-05-23 ; Times: 3
+	Date: 2018-05-24 ; Times: 1
+	Date: 2018-05-25 ; Times: 4
+	Date: 2018-05-26 ; Times: 1
+	Date: 2018-05-06 ; Times: 6
+	Date: 2018-05-07 ; Times: 10
+	Date: 2018-05-04 ; Times: 1
+	Date: 2018-05-02 ; Times: 3
+	Date: 2018-05-03 ; Times: 1
+	Date: 2018-05-01 ; Times: 2
+	Date: 2018-05-08 ; Times: 5
+	Date: 2018-05-09 ; Times: 12
+	Date: 2018-05-30 ; Times: 5
+	Date: 2018-05-15 ; Times: 1
+	Date: 2018-05-17 ; Times: 4
+	Date: 2018-05-16 ; Times: 8
+	Date: 2018-05-11 ; Times: 1
+	Date: 2018-05-13 ; Times: 8
+	Date: 2018-05-12 ; Times: 2
+	Date: 2018-05-19 ; Times: 10
+	Date: 2018-05-18 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "Eurycea longicauda" ; Times: 1
+	Query: "Plethodon dunni" ; Times: 1
+	Query: "Paramesotriton hongkongensis" ; Times: 1
+	Query: "Plethodon yonahlossee" ; Times: 1
+	Query: "Caretta caretta" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 1
+	Query: "Batrachoseps wrighti" ; Times: 1
+	Query: "Bolitoglossa macrinii" ; Times: 1
+	Query: "Plethodon mississippi" ; Times: 1
+	Query: "Chiropterotriton chiropterus" ; Times: 2
+	Query: "Chelonia mydas" ; Times: 1
+	Query: "Plethodon idahoensis" ; Times: 2
+	Query: "Cryptobranchus alleganiensis" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 1
+	Query: "Hypopachus variolosus" ; Times: 1
+	Query: "Boa constrictor" ; Times: 1
+	Query: "ensatina" ; Times: 1
+	Query: "country:&#34;United States&#34; (Lissamphibia)" ; Times: 1
+	Query: "Ambystoma tigrinum" ; Times: 1
+	Query: "Hemidactylium scutatum" ; Times: 1
+	Query: "Chiropterotriton chondrostega" ; Times: 2
+	Query: "Glyptemys insculpta" ; Times: 1
+	Query: "Desmognathus auriculatus" ; Times: 1
+	Query: "Bolitoglossa rufescens" ; Times: 2
+	Query: "Paleosuchus palpebrosus" ; Times: 1
+	Query: "genus:Atropoides OR Cerrophidion OR Bothriechis OR Lachesis OR Mixcoatlus OR Ophryacus OR porthidium" ; Times: 1
+	Query: "Bolitoglossa platydactyla" ; Times: 2
+	Query: "Batrachoseps attenuatus" ; Times: 1
+	Query: "Thamnophis proximus" ; Times: 1
+	Query: "Eurycea lucifuga" ; Times: 1
+	Query: "Cynops pyrrhogaster" ; Times: 1
+	Query: "Plethodon shenandoah" ; Times: 1
+	Query: "Plethodon hoffmani" ; Times: 1
+	Query: "Aneides aeneus" ; Times: 1
+	Query: "Lithobates berlandieri" ; Times: 1
+	Query: "Plethodon cinereus" ; Times: 1
+	Query: "Lacertidae" ; Times: 1
+	Query: "Amphiuma means" ; Times: 1
+	Query: "ophiophagus Hannah" ; Times: 1
+	Query: "sistrurus" ; Times: 1
+	Query: "Desmognathus monticola" ; Times: 1
+	Query: "Eurycea cirrigera" ; Times: 1
+	Query: "podocnemis expansa" ; Times: 1
+	Query: "L. catesbeianus" ; Times: 1
+	Query: "Bolitoglossa biseriata" ; Times: 1
+	Query: "Platysternon" ; Times: 1
+	Query: "laemanctus serratus" ; Times: 2
+	Query: "Ctenosaura acanthura" ; Times: 1
+	Query: "phrynosoma orbiculare" ; Times: 1
+	Query: "Siren intermedia" ; Times: 2
+	Query: "sistrurus tergeminus" ; Times: 1
+	Query: "Eurycea wilderae" ; Times: 1
+	Query: "dicamptodon ensatus" ; Times: 1
+	Query: "crotalus horridus" ; Times: 1
+	Query: "Ambystoma maculatum" ; Times: 1
+	Query: "Plethodon wehrlei" ; Times: 1
+	Query: "Pseudoeurycea leprosa" ; Times: 1
+	Query: "Amphiuma tridactylum" ; Times: 1
+	Query: "Plethodon elongatus" ; Times: 1
+	Query: "crocodylus niloticus" ; Times: 1
+	Query: "Plethodon chattahoochee" ; Times: 1
+	Query: "Coleonyx elegans" ; Times: 1
+	Query: "Thamnophis cyrtopsis" ; Times: 1
+	Query: "Rana palustris" ; Times: 1
+	Query: "Spea bombifrons" ; Times: 1
+	Query: "Paramesotriton caudopunctatus" ; Times: 1
+	Query: "phrynosoma cornutum" ; Times: 1
+	Query: "Desmognathus quadramaculatus" ; Times: 1
+	Query: "Dicamptodon ensatus" ; Times: 1
+	Query: "Plethodon richmondi" ; Times: 1
+	Query: "Thamnophis marcianus" ; Times: 1
+	Query: "Crotalus molossus" ; Times: 1
+	Query: "Rhinophrynus dorsalis" ; Times: 1
+	Query: "Thamnophis eques" ; Times: 1
+	Query: "Ambystoma gracile" ; Times: 1
+	Query: "Gyrinophilus porphyriticus" ; Times: 1
+	Query: "Ambystoma jeffersonianum" ; Times: 1
+	Query: "desmognathus auriculatus" ; Times: 1
+	Query: "Ambystoma cingulatum" ; Times: 1
+	Query: "Aneides ferreus" ; Times: 1
+	Query: "dermochelys coriacea" ; Times: 1
+	Query: "Plethodon vehiculum" ; Times: 1
+	Query: "Eurycea bislineata" ; Times: 1
+	Query: "Haideotriton wallacei" ; Times: 1
+	Query: "Calotes versicolor" ; Times: 1
+	Query: "Ambystoma opacum" ; Times: 1
+	Query: "Necturus maculosus" ; Times: 1
+	Query: "Ambystoma texanum" ; Times: 1
+	Query: "Crotalus scutulatus" ; Times: 1
+	Query: "Plethodon glutinosus" ; Times: 1
+	Query: "Eretmochelys imbricata" ; Times: 1
+	Query: "Plethodon jordani" ; Times: 1
+	Query: "Plethodon virginia" ; Times: 1
+	Query: "Eurycea quadridigitata" ; Times: 1
+	Query: "Serpentes" ; Times: 1
+	Query: "cryptobranchus" ; Times: 1
+	Query: "Ambystoma laterale" ; Times: 1
+	Query: "Desmognathus wrighti" ; Times: 1
+	Query: "Jaculus jaculus" ; Times: 1
+	Query: "Aneides flavipunctatus" ; Times: 1
+	Query: "Ambystoma talpoideum" ; Times: 1
+	Query: "Dicamptodon tenebrosus" ; Times: 2
+	Query: "Hynobius nebulosus" ; Times: 1
+	Query: "kinosternon leucostomum" ; Times: 1
+
+
+End of report.
