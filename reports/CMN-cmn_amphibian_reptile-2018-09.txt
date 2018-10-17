@@ -1,0 +1,187 @@
+Report for Institution Code CMN, Resource cmn_amphibian_reptile
+Usage stats for September 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 70
+Number of records retrieved in searches: 314
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Ukraine ; Times: 1
+	Country: Netherlands ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: Unknown ; Times: 2
+	Country: Costa Rica ; Times: 3
+	Country: United States ; Times: 42
+	Country: Sweden ; Times: 10
+	Country: Guatemala ; Times: 1
+	Country: China ; Times: 1
+	Country: Austria ; Times: 2
+	Country: Germany ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-04 ; Times: 3
+	Date: 2018-09-23 ; Times: 1
+	Date: 2018-09-24 ; Times: 2
+	Date: 2018-09-25 ; Times: 2
+	Date: 2018-09-27 ; Times: 2
+	Date: 2018-09-06 ; Times: 5
+	Date: 2018-09-21 ; Times: 10
+	Date: 2018-09-22 ; Times: 1
+	Date: 2018-09-05 ; Times: 3
+	Date: 2018-09-08 ; Times: 5
+	Date: 2018-09-09 ; Times: 1
+	Date: 2018-09-30 ; Times: 2
+	Date: 2018-09-11 ; Times: 1
+	Date: 2018-09-10 ; Times: 2
+	Date: 2018-09-13 ; Times: 1
+	Date: 2018-09-12 ; Times: 2
+	Date: 2018-09-14 ; Times: 2
+	Date: 2018-09-17 ; Times: 2
+	Date: 2018-09-16 ; Times: 1
+	Date: 2018-09-19 ; Times: 8
+	Date: 2018-09-18 ; Times: 3
+	Date: 2018-09-02 ; Times: 5
+	Date: 2018-09-03 ; Times: 1
+	Date: 2018-09-01 ; Times: 2
+	Date: 2018-09-20 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:10678" ; Times: 1
+	Query: "clemmys guttata New York" ; Times: 1
+	Query: "Franklin county crotalus adamanteus" ; Times: 1
+	Query: "rana boylii AND stanislaus county year &lt;= 1987" ; Times: 1
+	Query: "Elaphe emoryi" ; Times: 1
+	Query: "typhlotriton spelaeus" ; Times: 1
+	Query: "jefferson triangulum" ; Times: 3
+	Query: "Crotalus county:&#34;Culberson&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Agkistrodon county:&#34;Jasper&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "Rana dalmatina" ; Times: 1
+	Query: "cooter" ; Times: 2
+	Query: "Dispholidus typus" ; Times: 2
+	Query: "14042" ; Times: 1
+	Query: "wizard" ; Times: 4
+	Query: "amphibia peten" ; Times: 1
+	Query: "Crotalus county:&#34;Hudspeth&#34; stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "Reptile locality:Osceola national forest year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "Crotalus county:&#34;Brewster&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Paget" ; Times: 1
+	Query: "24094" ; Times: 1
+	Query: "Crotalus nuntius" ; Times: 2
+	Query: "33513" ; Times: 1
+	Query: "22579" ; Times: 1
+	Query: "16678" ; Times: 1
+	Query: "Crotalus county:&#34;Crockett&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "14840" ; Times: 1
+	Query: "Agkistrodon halys" ; Times: 2
+	Query: "27792" ; Times: 1
+	Query: "Crotalus tigris" ; Times: 1
+	Query: "Nerodia taxispilota Leon County" ; Times: 1
+	Query: "thamnophis juneau" ; Times: 4
+	Query: "R 15654" ; Times: 1
+	Query: "Heterodon simus" ; Times: 1
+	Query: "Anilius scytale" ; Times: 1
+	Query: "Polychrus gutturosus" ; Times: 3
+	Query: "33106" ; Times: 1
+	Query: "16088" ; Times: 1
+	Query: "Ophisaurus attenuatus mappable:1" ; Times: 1
+	Query: "Heterodon simus Florida" ; Times: 1
+	Query: "gbifdatasetid:74f92761-3a24-4d85-9bfb-00b1fee0119d" ; Times: 1
+	Query: "Viperidae stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "Pituophis catenifer sayi" ; Times: 1
+	Query: "Paleosuchus palpebrosus" ; Times: 4
+	Query: "Eublepharis macularius" ; Times: 1
+	Query: "institutioncode:CMN" ; Times: 1
+	Query: "ambystoma laterale new york" ; Times: 1
+	Query: "Agkistrodon county:&#34;Cooke&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Douglas triangulum" ; Times: 4
+	Query: "McBee Ambystoma" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 58 (out of 846 download events in this period)
+Total number of records downloaded: 2168
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 36
+	Country: Mexico ; Times: 14
+	Country: Indonesia ; Times: 2
+	Country: Costa Rica ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: Malaysia ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-11 ; Times: 2
+	Date: 2018-09-17 ; Times: 6
+	Date: 2018-09-27 ; Times: 2
+	Date: 2018-09-30 ; Times: 1
+	Date: 2018-09-24 ; Times: 2
+	Date: 2018-09-10 ; Times: 1
+	Date: 2018-09-04 ; Times: 5
+	Date: 2018-09-12 ; Times: 1
+	Date: 2018-09-06 ; Times: 3
+	Date: 2018-09-14 ; Times: 1
+	Date: 2018-09-22 ; Times: 1
+	Date: 2018-09-19 ; Times: 9
+	Date: 2018-09-18 ; Times: 17
+	Date: 2018-09-20 ; Times: 2
+	Date: 2018-09-28 ; Times: 3
+	Date: 2018-09-21 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Sceloporus magister" ; Times: 1
+	Query: "amphibian Malaysia" ; Times: 1
+	Query: "Lithobates catesbeianus" ; Times: 1
+	Query: "Crotaphytus collaris" ; Times: 2
+	Query: "bolitoglossa rufescens" ; Times: 1
+	Query: "Holbrookia maculata" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 3
+	Query: "siren intermedia" ; Times: 2
+	Query: "Sceloporus occidentalis" ; Times: 1
+	Query: "Ameiva undulata" ; Times: 2
+	Query: "Uma notata" ; Times: 1
+	Query: "Leptodactylus melanonotus" ; Times: 1
+	Query: "xantusia vigilis" ; Times: 1
+	Query: "Phrynosoma douglassii" ; Times: 1
+	Query: "Corytophanes cristatus" ; Times: 1
+	Query: "Coleonyx variegatus" ; Times: 1
+	Query: "amphiuma tridactylum" ; Times: 4
+	Query: "Phrynosoma hernandesi" ; Times: 1
+	Query: "microscaphus" ; Times: 1
+	Query: "terrapene carolina carolina" ; Times: 1
+	Query: "Anniella pulchra" ; Times: 1
+	Query: "Oxybelis aeneus" ; Times: 1
+	Query: "amphiuma means" ; Times: 1
+	Query: "Mastigodryas melanolomus" ; Times: 1
+	Query: "county:&#34;pennington&#34; stateprovince:&#34;south dakota&#34;" ; Times: 1
+	Query: "eleutherodactylus" ; Times: 1
+	Query: "rana draytonii vntype:specimen" ; Times: 1
+	Query: "Urosaurus ornatus" ; Times: 1
+	Query: "cryptobranchus alleganiensis" ; Times: 1
+	Query: "Phrynosoma coronatum" ; Times: 1
+	Query: "Uta stansburiana" ; Times: 1
+	Query: "macroclemys" ; Times: 1
+	Query: "Micrurus tener" ; Times: 1
+	Query: "Chamaeleonidae" ; Times: 1
+	Query: "Polychrus gutturosus" ; Times: 1
+	Query: "Mabuya mabouya" ; Times: 1
+	Query: "Elgaria coerulea" ; Times: 1
+	Query: "Trachemys scripta elegans" ; Times: 2
+	Query: "Phrynosoma douglasii" ; Times: 1
+	Query: "Coniophanes imperialis imperialis" ; Times: 1
+	Query: "rana boylii" ; Times: 1
+	Query: "deirochelys" ; Times: 1
+	Query: "Pituophis catenifer sayi" ; Times: 1
+	Query: "Lachesis muta" ; Times: 1
+	Query: "Eleutherodactylus planirostris" ; Times: 1
+	Query: "glyptemys insculpta" ; Times: 1
+	Query: "Oxybelis fulgidus" ; Times: 1
+	Query: "Elgaria multicarinata" ; Times: 2
+
+
+End of report.
