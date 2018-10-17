@@ -1,0 +1,229 @@
+Report for Institution Code CMN, Resource cmn_amphibian_reptile
+Usage stats for June 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 106
+Number of records retrieved in searches: 239
+Number of different countries where searches have been originated: 16
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 20
+	Country: United States ; Times: 38
+	Country: Netherlands ; Times: 14
+	Country: Colombia ; Times: 1
+	Country: South Africa ; Times: 1
+	Country: Unknown ; Times: 4
+	Country: Mexico ; Times: 4
+	Country: Czechia ; Times: 1
+	Country: France ; Times: 3
+	Country: United Kingdom ; Times: 2
+	Country: Germany ; Times: 8
+	Country: Finland ; Times: 1
+	Country: Puerto Rico ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Russia ; Times: 2
+	Country: Spain ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-06 ; Times: 3
+	Date: 2018-06-05 ; Times: 23
+	Date: 2018-06-04 ; Times: 7
+	Date: 2018-06-03 ; Times: 2
+	Date: 2018-06-02 ; Times: 4
+	Date: 2018-06-01 ; Times: 3
+	Date: 2018-06-25 ; Times: 9
+	Date: 2018-06-24 ; Times: 4
+	Date: 2018-06-27 ; Times: 1
+	Date: 2018-06-26 ; Times: 2
+	Date: 2018-06-20 ; Times: 5
+	Date: 2018-06-09 ; Times: 1
+	Date: 2018-06-08 ; Times: 3
+	Date: 2018-06-23 ; Times: 3
+	Date: 2018-06-22 ; Times: 2
+	Date: 2018-06-11 ; Times: 1
+	Date: 2018-06-13 ; Times: 4
+	Date: 2018-06-14 ; Times: 2
+	Date: 2018-06-15 ; Times: 2
+	Date: 2018-06-16 ; Times: 1
+	Date: 2018-06-17 ; Times: 1
+	Date: 2018-06-18 ; Times: 15
+	Date: 2018-06-19 ; Times: 2
+	Date: 2018-06-30 ; Times: 2
+	Date: 2018-06-28 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "eublepharis macularius" ; Times: 1
+	Query: "crocodylus acutus" ; Times: 1
+	Query: "Gloydi heterodon" ; Times: 1
+	Query: "Liochlorophis vernalis Virginia" ; Times: 1
+	Query: "catalognumber:13728" ; Times: 1
+	Query: "Ptychozoon lionotum" ; Times: 1
+	Query: "Sternotherus St. Tammany" ; Times: 1
+	Query: "19696" ; Times: 1
+	Query: "lacerta agilis" ; Times: 2
+	Query: "Pelophylax lessonae" ; Times: 1
+	Query: "locality:port simpson" ; Times: 3
+	Query: "platemys" ; Times: 1
+	Query: "distance(location,geopoint(45.1119776310102,-94.507046023876))&lt;45034" ; Times: 1
+	Query: "Tylototriton verrucosus" ; Times: 2
+	Query: "aspidelaps" ; Times: 1
+	Query: "distance(location,geopoint(36.9940289363794,-90.1823658933356))&lt;23608" ; Times: 1
+	Query: "crocodylus niloticus" ; Times: 1
+	Query: "catalognumber:33306" ; Times: 1
+	Query: "Chamaeleo dilepis" ; Times: 1
+	Query: "Rana ornativentris" ; Times: 1
+	Query: "Pseudoeurycea scandens" ; Times: 1
+	Query: "wizard" ; Times: 1
+	Query: "Python reticulatus" ; Times: 1
+	Query: "16088 vntype:specimen" ; Times: 1
+	Query: "dicamptodon tenebrosus columbia" ; Times: 1
+	Query: "11605" ; Times: 1
+	Query: "catalognumber:3014 institutioncode:CMN" ; Times: 1
+	Query: "28940" ; Times: 1
+	Query: "Missouri Reptilia" ; Times: 1
+	Query: "tetraspis" ; Times: 12
+	Query: "catalognumber:16943" ; Times: 1
+	Query: "31224" ; Times: 1
+	Query: "stateprovince:&#34;Florida&#34; lithobates catesbeianus" ; Times: 1
+	Query: "Trachemys dorbigni" ; Times: 17
+	Query: "Sternotherus George" ; Times: 1
+	Query: "crotalus molossus stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "plethodon wehrlei stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "ambystoma (ontario pelee)" ; Times: 2
+	Query: "Paramesotriton caudopunctatus" ; Times: 1
+	Query: "python reticulatus" ; Times: 1
+	Query: "Elgaria coerulea Washington 20" ; Times: 1
+	Query: "Salamandrella keyserlingii" ; Times: 1
+	Query: "crotalus lepidus klauberi" ; Times: 1
+	Query: "Crotalus tigris" ; Times: 2
+	Query: "16262" ; Times: 1
+	Query: "Leiopelma" ; Times: 1
+	Query: "catalognumber:29294" ; Times: 2
+	Query: "catalognumber:6882" ; Times: 1
+	Query: "Crotalus bernalillo" ; Times: 2
+	Query: "thamnophis brachystoma" ; Times: 1
+	Query: "Ranodon sibiricus" ; Times: 1
+	Query: "heterodon platyrhinos" ; Times: 1
+	Query: "heterodon platyrhinos stateprovince:&#34;south carolina&#34; year &gt;= 1900 year &lt;= 2017" ; Times: 1
+	Query: "catalognumber:18721" ; Times: 1
+	Query: "platemys platycephala" ; Times: 2
+	Query: "Dendroaspis jamesoni" ; Times: 1
+	Query: "catalognumber:5788" ; Times: 1
+	Query: "crotalus tigris" ; Times: 4
+	Query: "heterodon nasicus distance(location,geopoint(30.245865613452374,-101.1767578125))&lt;100000" ; Times: 1
+	Query: "21294" ; Times: 1
+	Query: "anaxyrus boreas halophilus" ; Times: 1
+	Query: "locality:sudest" ; Times: 1
+	Query: "36384`1" ; Times: 1
+	Query: "Nanorana yunnanensis" ; Times: 1
+	Query: "crotalus mitchelli" ; Times: 2
+	Query: "Lampropeltis alterna" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 84 (out of 1169 download events in this period)
+Total number of records downloaded: 2478
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Mexico ; Times: 23
+	Country: Unknown ; Times: 2
+	Country: United States ; Times: 40
+	Country: Puerto Rico ; Times: 2
+	Country: Spain ; Times: 15
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-14 ; Times: 1
+	Date: 2018-06-01 ; Times: 3
+	Date: 2018-06-07 ; Times: 11
+	Date: 2018-06-06 ; Times: 17
+	Date: 2018-06-05 ; Times: 9
+	Date: 2018-06-04 ; Times: 3
+	Date: 2018-06-29 ; Times: 1
+	Date: 2018-06-02 ; Times: 7
+	Date: 2018-06-16 ; Times: 2
+	Date: 2018-06-19 ; Times: 4
+	Date: 2018-06-18 ; Times: 7
+	Date: 2018-06-03 ; Times: 8
+	Date: 2018-06-13 ; Times: 1
+	Date: 2018-06-08 ; Times: 4
+	Date: 2018-06-21 ; Times: 1
+	Date: 2018-06-20 ; Times: 1
+	Date: 2018-06-25 ; Times: 3
+	Date: 2018-06-22 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Pseudotriton montanus" ; Times: 1
+	Query: "crocodylus acutus" ; Times: 1
+	Query: "Sistrurus catenatus" ; Times: 2
+	Query: "Plethodon dunni" ; Times: 1
+	Query: "Crotalus lepidus" ; Times: 1
+	Query: "Taricha granulosa granulosa" ; Times: 1
+	Query: "chiromantis rufescens" ; Times: 1
+	Query: "Trachemys dorbigni" ; Times: 1
+	Query: "Pseudoeurycea leprosa" ; Times: 1
+	Query: "Amphiuma tridactylum" ; Times: 1
+	Query: "Agkistrodon bilineatus" ; Times: 1
+	Query: "Pseudacris regilla" ; Times: 1
+	Query: "taricha granulosa" ; Times: 3
+	Query: "Tylototriton verrucosus" ; Times: 1
+	Query: "Liochlorophis vernalis Virginia" ; Times: 1
+	Query: "Siren lacertina" ; Times: 1
+	Query: "Triturus cristatus" ; Times: 1
+	Query: "Salamandra salamandra" ; Times: 1
+	Query: "Chelonia mydas" ; Times: 1
+	Query: "nerodia harteri" ; Times: 1
+	Query: "Crotalus viridis" ; Times: 1
+	Query: "Phrynosoma cornutum" ; Times: 2
+	Query: "Crotalus cerastes" ; Times: 1
+	Query: "crocodylus johnstoni" ; Times: 1
+	Query: "pond turtle" ; Times: 1
+	Query: "Crotalus viridis; CO" ; Times: 1
+	Query: "elephant" ; Times: 1
+	Query: "Rhyacotriton olympicus" ; Times: 2
+	Query: "Varanus salvator vntype:specimen" ; Times: 1
+	Query: "Crotalus ruber" ; Times: 1
+	Query: "Agkistrodon contortrix" ; Times: 1
+	Query: "moose" ; Times: 1
+	Query: "Crotalus pricei" ; Times: 3
+	Query: "anaxyrus boreas halophilus" ; Times: 1
+	Query: "Taricha rivularis" ; Times: 1
+	Query: "ambystoma (ontario pelee)" ; Times: 1
+	Query: "pseudemys concinna" ; Times: 1
+	Query: "Pseudoeurycea scandens" ; Times: 1
+	Query: "python reticulatus" ; Times: 1
+	Query: "Salamandrella keyserlingii" ; Times: 1
+	Query: "Phrynosoma orbiculare" ; Times: 1
+	Query: "Crotalus viridis in CO" ; Times: 2
+	Query: "Crotalus pricei pricei" ; Times: 2
+	Query: "Pseudotriton ruber" ; Times: 1
+	Query: "coyote" ; Times: 1
+	Query: "Caretta caretta" ; Times: 1
+	Query: "Dicamptodon tenebrosus" ; Times: 1
+	Query: "Kinosternon leucostomum" ; Times: 1
+	Query: "Crotalus oreganus" ; Times: 2
+	Query: "blue jay" ; Times: 2
+	Query: "Crocodylus acutus" ; Times: 1
+	Query: "heterodon platyrhinos" ; Times: 1
+	Query: "cougar" ; Times: 2
+	Query: "valliceps" ; Times: 1
+	Query: "Cougar" ; Times: 1
+	Query: "Crotalus mitchelli" ; Times: 1
+	Query: "Crotalus molossus" ; Times: 1
+	Query: "phrynosoma hernandesi" ; Times: 1
+	Query: "Peaks of Otter" ; Times: 1
+	Query: "Ranodon sibiricus" ; Times: 2
+	Query: "Crotalus tigris" ; Times: 1
+	Query: "Siren intermedia" ; Times: 1
+	Query: "Anaxyrus boreas" ; Times: 1
+	Query: "Crotalus durissus" ; Times: 1
+	Query: "Eretmochelys imbricata" ; Times: 1
+	Query: "Taricha granulosa" ; Times: 3
+	Query: "Dermochelys coriacea" ; Times: 1
+	Query: "Oxybelis fulgidus" ; Times: 1
+	Query: "crotalus adamanteus" ; Times: 1
+
+
+End of report.
