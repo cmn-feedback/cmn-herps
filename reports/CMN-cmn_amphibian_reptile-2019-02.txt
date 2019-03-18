@@ -1,0 +1,161 @@
+Report for Institution Code CMN, Resource cmn_amphibian_reptile
+Usage stats for February 2019, generated on 2019/03/18
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 71
+Number of records retrieved in searches: 278
+Number of different countries where searches have been originated: 19
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: United States ; Times: 34
+	Country: Fiji ; Times: 2
+	Country: Australia ; Times: 4
+	Country: Portugal ; Times: 1
+	Country: South Africa ; Times: 4
+	Country: Unknown ; Times: 2
+	Country: Mexico ; Times: 1
+	Country: France ; Times: 2
+	Country: United Kingdom ; Times: 2
+	Country: Netherlands ; Times: 1
+	Country: Germany ; Times: 5
+	Country: Ecuador ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Belgium ; Times: 3
+	Country: Japan ; Times: 1
+	Country: Argentina ; Times: 2
+	Country: Hong Kong ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-22 ; Times: 2
+	Date: 2019-02-02 ; Times: 2
+	Date: 2019-02-04 ; Times: 2
+	Date: 2019-02-03 ; Times: 5
+	Date: 2019-02-05 ; Times: 2
+	Date: 2019-02-06 ; Times: 3
+	Date: 2019-02-13 ; Times: 5
+	Date: 2019-02-15 ; Times: 2
+	Date: 2019-02-11 ; Times: 4
+	Date: 2019-02-10 ; Times: 3
+	Date: 2019-02-26 ; Times: 2
+	Date: 2019-02-01 ; Times: 5
+	Date: 2019-02-20 ; Times: 2
+	Date: 2019-02-12 ; Times: 6
+	Date: 2019-02-17 ; Times: 1
+	Date: 2019-02-23 ; Times: 6
+	Date: 2019-02-14 ; Times: 2
+	Date: 2019-02-18 ; Times: 4
+	Date: 2019-02-08 ; Times: 4
+	Date: 2019-02-28 ; Times: 5
+	Date: 2019-02-21 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "eublepharis macularius" ; Times: 1
+	Query: "Liopeltis" ; Times: 1
+	Query: "Cnemidophorus lacertoides" ; Times: 1
+	Query: "Acrantophis madagascariensis" ; Times: 2
+	Query: "Graptemys barbouri" ; Times: 1
+	Query: "Crocodylus johnstoni" ; Times: 1
+	Query: "32115" ; Times: 1
+	Query: "Varanus rudicollis" ; Times: 2
+	Query: "Epicrates mappable:1" ; Times: 1
+	Query: "31887" ; Times: 2
+	Query: "Paramesotriton deloustali" ; Times: 2
+	Query: "GEochelone carbonaria" ; Times: 1
+	Query: "14262" ; Times: 1
+	Query: "19576" ; Times: 2
+	Query: "locality:oneonta county:&#34;otsego&#34; stateprovince:&#34;new york&#34;" ; Times: 1
+	Query: "catalognumber:1688" ; Times: 2
+	Query: "country:(Kyrgyzstan)" ; Times: 1
+	Query: "17499" ; Times: 1
+	Query: "Plethodon idahoensis" ; Times: 1
+	Query: "Salamandra salamandra" ; Times: 1
+	Query: "Eurycea lucifuga mappable:1" ; Times: 4
+	Query: "27799" ; Times: 1
+	Query: "18081" ; Times: 1
+	Query: "32402" ; Times: 1
+	Query: "30254" ; Times: 1
+	Query: "emys orbicularis" ; Times: 2
+	Query: "catalognumber:1700" ; Times: 1
+	Query: "Pseudocordylus microlepidotus microlepidotus" ; Times: 1
+	Query: "caiman spix" ; Times: 1
+	Query: "Pseudocordylus" ; Times: 2
+	Query: "32777" ; Times: 2
+	Query: "Lampropeltis triangulum hondurensis" ; Times: 1
+	Query: "crotalus lepidus klauberi" ; Times: 1
+	Query: "25217" ; Times: 1
+	Query: "Eunectes mappable:1" ; Times: 1
+	Query: "Platymantis vitiensis" ; Times: 2
+	Query: "35018" ; Times: 1
+	Query: "Heterodon simus" ; Times: 1
+	Query: "pseudocordylus microlepidotus" ; Times: 1
+	Query: "Platysternon megacephalum" ; Times: 1
+	Query: "Leiopelma hochstetteri" ; Times: 1
+	Query: "Crocodylus acutus" ; Times: 1
+	Query: "catalognumber:15144" ; Times: 1
+	Query: "Acrantophis dumerili" ; Times: 3
+	Query: "13701" ; Times: 1
+	Query: "22840" ; Times: 1
+	Query: "platysternon" ; Times: 1
+	Query: "Boa imperator mappable:1" ; Times: 1
+	Query: "Acrantophis mappable:1" ; Times: 1
+	Query: "Eublepharis macularius" ; Times: 1
+	Query: "crotalus tigris" ; Times: 2
+	Query: "institutioncode:CMN" ; Times: 1
+	Query: "Dendrobates tinctorius" ; Times: 1
+	Query: "Heterodon gloydi" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 20 (out of 1227 download events in this period)
+Total number of records downloaded: 461
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 8
+	Country: Israel ; Times: 3
+	Country: Mexico ; Times: 3
+	Country: United Kingdom ; Times: 3
+	Country: Germany ; Times: 1
+	Country: Belgium ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-04 ; Times: 1
+	Date: 2019-02-05 ; Times: 4
+	Date: 2019-02-13 ; Times: 1
+	Date: 2019-02-11 ; Times: 1
+	Date: 2019-02-25 ; Times: 2
+	Date: 2019-02-26 ; Times: 1
+	Date: 2019-02-12 ; Times: 2
+	Date: 2019-02-14 ; Times: 1
+	Date: 2019-02-17 ; Times: 1
+	Date: 2019-02-16 ; Times: 1
+	Date: 2019-02-19 ; Times: 2
+	Date: 2019-02-08 ; Times: 1
+	Date: 2019-02-01 ; Times: 1
+	Date: 2019-02-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Agkistrodon conanti" ; Times: 1
+	Query: "Tarentola mauritanica" ; Times: 1
+	Query: "Agkistrodon laticinctus" ; Times: 1
+	Query: "phelsuma" ; Times: 1
+	Query: "Alligator mississippiensis vntype:specimen" ; Times: 1
+	Query: "xantusia vigilis" ; Times: 1
+	Query: "porcupine" ; Times: 1
+	Query: "Echis carinatus" ; Times: 1
+	Query: "deirochelys" ; Times: 2
+	Query: "Rhinophrynus dorsalis" ; Times: 1
+	Query: "plethodon stormi" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 3
+	Query: "Heterodon kennerlyi" ; Times: 1
+	Query: "crocodylus johnstoni" ; Times: 1
+	Query: "Heterodon gloydi" ; Times: 1
+	Query: "Phrynosoma orbiculare" ; Times: 1
+	Query: "Ceratophrys" ; Times: 1
+
+
+End of report.
