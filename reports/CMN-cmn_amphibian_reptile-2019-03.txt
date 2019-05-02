@@ -1,0 +1,265 @@
+Report for Institution Code CMN, Resource cmn_amphibian_reptile
+Usage stats for March 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 189
+Number of records retrieved in searches: 431
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 44
+	Country: Australia ; Times: 1
+	Country: South Africa ; Times: 1
+	Country: Mexico ; Times: 5
+	Country: France ; Times: 3
+	Country: United Kingdom ; Times: 107
+	Country: Sweden ; Times: 2
+	Country: Netherlands ; Times: 9
+	Country: Vietnam ; Times: 1
+	Country: Belgium ; Times: 1
+	Country: Argentina ; Times: 14
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-11 ; Times: 2
+	Date: 2019-03-06 ; Times: 4
+	Date: 2019-03-05 ; Times: 1
+	Date: 2019-03-03 ; Times: 1
+	Date: 2019-03-12 ; Times: 3
+	Date: 2019-03-08 ; Times: 2
+	Date: 2019-03-13 ; Times: 10
+	Date: 2019-03-31 ; Times: 10
+	Date: 2019-03-25 ; Times: 6
+	Date: 2019-03-09 ; Times: 1
+	Date: 2019-03-29 ; Times: 18
+	Date: 2019-03-18 ; Times: 1
+	Date: 2019-03-20 ; Times: 3
+	Date: 2019-03-16 ; Times: 3
+	Date: 2019-03-04 ; Times: 5
+	Date: 2019-03-14 ; Times: 44
+	Date: 2019-03-15 ; Times: 62
+	Date: 2019-03-01 ; Times: 2
+	Date: 2019-03-07 ; Times: 4
+	Date: 2019-03-10 ; Times: 3
+	Date: 2019-03-28 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Lithobates berlandieri mappable:1" ; Times: 1
+	Query: "Reptilia Mississippi rankin" ; Times: 2
+	Query: "Boaedon fuliginosus" ; Times: 1
+	Query: "Python bivittatus" ; Times: 1
+	Query: "Sceloporus Canada" ; Times: 1
+	Query: "Lampropeltis micropholis" ; Times: 1
+	Query: "Nerodia harteri" ; Times: 1
+	Query: "Spilotes pullatus" ; Times: 1
+	Query: "Elaphe dione" ; Times: 1
+	Query: "20284" ; Times: 1
+	Query: "15285" ; Times: 1
+	Query: "Candoia bibroni" ; Times: 1
+	Query: "Clelia clelia" ; Times: 1
+	Query: "Epicrates cenchria" ; Times: 1
+	Query: "Eryx miliaris" ; Times: 1
+	Query: "Echis carinatus" ; Times: 1
+	Query: "country:&#34;canada&#34; recordedby:norman" ; Times: 7
+	Query: "Candoia paulsoni" ; Times: 1
+	Query: "Bitis gabonica" ; Times: 1
+	Query: "Lycodonomorphus rufulus" ; Times: 1
+	Query: "Mastigodryas melanolomus" ; Times: 1
+	Query: "Crotalus pricei" ; Times: 1
+	Query: "Natrix tessellata" ; Times: 1
+	Query: "kinosternon hippocrepis" ; Times: 1
+	Query: "Ambystoma texanum (missouri)" ; Times: 1
+	Query: "Hypsiglena slevini" ; Times: 1
+	Query: "Dendrelaphis punctulatus" ; Times: 1
+	Query: "dendrelaphis new guinea" ; Times: 1
+	Query: "Micrurus tener" ; Times: 1
+	Query: "Anilius scytale" ; Times: 1
+	Query: "Eumeces septentrionalis" ; Times: 1
+	Query: "Hyla gratiosa mappable:1" ; Times: 1
+	Query: "Dendroaspis jamesoni" ; Times: 1
+	Query: "Dermochelys coriacea mappable:1" ; Times: 1
+	Query: "Crotalus durissus" ; Times: 1
+	Query: "Ungaliophis continentalis" ; Times: 1
+	Query: "Heterodon gloydi" ; Times: 1
+	Query: "acris gryllus maryland" ; Times: 2
+	Query: "Xenopeltis unicolor" ; Times: 1
+	Query: "Eryx jaculus" ; Times: 1
+	Query: "Pseudocordylus microlepidotus microlepidotus" ; Times: 1
+	Query: "Tropidophis canus" ; Times: 1
+	Query: "Crotalus stephensi" ; Times: 1
+	Query: "Erythrolamprus mimus" ; Times: 1
+	Query: "Boiga dendrophila" ; Times: 1
+	Query: "Erpeton tentaculatum" ; Times: 1
+	Query: "Drymarchon couperi" ; Times: 1
+	Query: "Atractus major" ; Times: 1
+	Query: "Ophiophagus hannah" ; Times: 1
+	Query: "Psammophylax rhombeatus" ; Times: 1
+	Query: "Dendroaspis angusticeps" ; Times: 1
+	Query: "Psammophis punctulatus" ; Times: 1
+	Query: "Helicops leopardinus" ; Times: 1
+	Query: "clemmys guttata stateprovince:&#34;new york&#34;" ; Times: 2
+	Query: "21113" ; Times: 1
+	Query: "Acrochordus javanicus" ; Times: 1
+	Query: "apalone mutica texas" ; Times: 1
+	Query: "Eryx conicus" ; Times: 1
+	Query: "Heterodon kennerlyi" ; Times: 1
+	Query: "Bitis nasicornis" ; Times: 1
+	Query: "acadia" ; Times: 1
+	Query: "Pseudacris ornata mappable:1" ; Times: 1
+	Query: "Python curtus" ; Times: 1
+	Query: "Loxocemus bicolor" ; Times: 1
+	Query: "Leptodactylus chaquensis mappable:1" ; Times: 1
+	Query: "25127" ; Times: 1
+	Query: "23317" ; Times: 1
+	Query: "Acris gryllus maryland" ; Times: 1
+	Query: "Boaedon lineatus" ; Times: 1
+	Query: "Platysternon megacephalum" ; Times: 1
+	Query: "Eryx colubrinus" ; Times: 1
+	Query: "Triturus cristatus mappable:1" ; Times: 1
+	Query: "Sibynomorphus vagus" ; Times: 1
+	Query: "Python molurus" ; Times: 1
+	Query: "38014" ; Times: 1
+	Query: "Casarea dussumieri" ; Times: 1
+	Query: "wizard" ; Times: 3
+	Query: "Dispholidus typus" ; Times: 1
+	Query: "Tantilla coronata" ; Times: 1
+	Query: "Natriciteres fuliginoides" ; Times: 1
+	Query: "Nerodia rhombifer lafayette" ; Times: 1
+	Query: "Crotalus tigris" ; Times: 3
+	Query: "Lampropeltis pyromelana" ; Times: 1
+	Query: "Duberria lutrix" ; Times: 1
+	Query: "33977" ; Times: 1
+	Query: "Lampropeltis triangulum syspila" ; Times: 1
+	Query: "crotalus pricei" ; Times: 2
+	Query: "Epicrates maurus" ; Times: 1
+	Query: "Rhamphiophis oxyrhynchus" ; Times: 1
+	Query: "Pseudoeryx plicatilis" ; Times: 1
+	Query: "Thamnophis butleri" ; Times: 1
+	Query: "Naja melanoleuca" ; Times: 1
+	Query: "Pseudacris blair" ; Times: 2
+	Query: "Lamprophis aurora" ; Times: 1
+	Query: "Hemidactylus lankae" ; Times: 1
+	Query: "Lichanura trivirgata" ; Times: 1
+	Query: "Psammophis crucifer" ; Times: 1
+	Query: "Dasypeltis scabra" ; Times: 1
+	Query: "Pelobates fuscus mappable:1" ; Times: 1
+	Query: "11583" ; Times: 1
+	Query: "hylarana erythraea" ; Times: 2
+	Query: "Acrantophis madagascariensis" ; Times: 1
+	Query: "Phelsuma cepediana" ; Times: 3
+	Query: "Rana arvalis mappable:1" ; Times: 1
+	Query: "Candoia aspera" ; Times: 1
+	Query: "Ahaetulla nasuta" ; Times: 1
+	Query: "Agkistrodon laticinctus" ; Times: 2
+	Query: "Eunectes murinus" ; Times: 2
+	Query: "Amphibia Mississippi rankin" ; Times: 1
+	Query: "Lithobates grylio mappable:1" ; Times: 1
+	Query: "catalognumber:5586" ; Times: 2
+	Query: "Physalaemus biligonigerus mappable:1" ; Times: 1
+	Query: "Python regius" ; Times: 1
+	Query: "Typhlops lumbricalis" ; Times: 1
+	Query: "Corallus hortulanus" ; Times: 1
+	Query: "Chironius carinatus" ; Times: 1
+	Query: "Hypsirhynchus ferox" ; Times: 1
+	Query: "37157" ; Times: 1
+	Query: "Phyllorhynchus browni" ; Times: 1
+	Query: "Aspidelaps lubricus" ; Times: 1
+	Query: "catalognumber:25992" ; Times: 1
+	Query: "Lampropeltis alterna" ; Times: 1
+	Query: "15384" ; Times: 1
+	Query: "catalognumber:27781" ; Times: 3
+	Query: "Conopsis nasus" ; Times: 1
+	Query: "gerrhonotus infernalis" ; Times: 1
+	Query: "catalognumber:1393" ; Times: 1
+	Query: "Boiga gokool" ; Times: 1
+	Query: "25563" ; Times: 1
+	Query: "Agkistrodon bilineatus" ; Times: 1
+	Query: "Eleutherodactylus johnstonei mappable:1" ; Times: 1
+	Query: "egernia depressa" ; Times: 1
+	Query: "heterodon gloydi" ; Times: 1
+	Query: "Corallus caninus" ; Times: 1
+	Query: "Helicops angulatus" ; Times: 1
+	Query: "Dendroaspis polylepis" ; Times: 1
+	Query: "Coronella austriaca" ; Times: 1
+	Query: "Vipera berus 2018" ; Times: 1
+	Query: "Thamnophis brachystoma" ; Times: 1
+	Query: "Ungaliophis panamensis" ; Times: 1
+	Query: "12219" ; Times: 1
+	Query: "12218" ; Times: 1
+	Query: "Salvadora grahamiae" ; Times: 1
+	Query: "apalone mutica louisiana" ; Times: 1
+	Query: "Lampropeltis triangulum syspila 2018" ; Times: 2
+	Query: "Chelus" ; Times: 1
+	Query: "Leptodactylus albilabris" ; Times: 2
+	Query: "Python sebae" ; Times: 1
+	Query: "Bungarus fasciatus" ; Times: 1
+	Query: "Hypsiglena ochrorhyncha" ; Times: 1
+	Query: "Lampropeltis splendida" ; Times: 1
+	Query: "Heterodon simus" ; Times: 1
+	Query: "Cerastes vipera" ; Times: 1
+	Query: "Coniophanes imperialis" ; Times: 1
+	Query: "Lampropeltis holbrooki" ; Times: 1
+	Query: "Acrantophis dumerili" ; Times: 1
+	Query: "Philothamnus hoplogaster" ; Times: 1
+	Query: "Rana temporaria mappable:1" ; Times: 1
+	Query: "Lachesis muta" ; Times: 1
+	Query: "Bothrops jararaca" ; Times: 1
+	Query: "Oxybelis fulgidus" ; Times: 1
+	Query: "Bolitoglossa biseriata mappable:1" ; Times: 1
+	Query: "Eleutherodactylus portoricensis mappable:1" ; Times: 1
+	Query: "Trimeresurus gramineus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 23 (out of 1281 download events in this period)
+Total number of records downloaded: 119
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 16
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-10 ; Times: 1
+	Date: 2019-03-13 ; Times: 1
+	Date: 2019-03-27 ; Times: 1
+	Date: 2019-03-25 ; Times: 2
+	Date: 2019-03-22 ; Times: 1
+	Date: 2019-03-18 ; Times: 1
+	Date: 2019-03-05 ; Times: 1
+	Date: 2019-03-04 ; Times: 3
+	Date: 2019-03-14 ; Times: 3
+	Date: 2019-03-15 ; Times: 1
+	Date: 2019-03-07 ; Times: 5
+	Date: 2019-03-03 ; Times: 1
+	Date: 2019-03-11 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Eumeces septentrionalis" ; Times: 1
+	Query: "Plethodon richmondi" ; Times: 1
+	Query: "Plethodon wehrlei" ; Times: 1
+	Query: "Petrosaurus thalassinus" ; Times: 1
+	Query: "crotalus pricei" ; Times: 3
+	Query: "lithobates areolatus" ; Times: 1
+	Query: "hylarana erythraea" ; Times: 1
+	Query: "Leiocephalus carinatus" ; Times: 1
+	Query: "apalone mutica texas" ; Times: 1
+	Query: "crotalus viridis" ; Times: 1
+	Query: "Spilotes pullatus" ; Times: 1
+	Query: "urosaurus nigricaudus" ; Times: 1
+	Query: "candoia aspera" ; Times: 1
+	Query: "apalone mutica louisiana" ; Times: 1
+	Query: "jaculus" ; Times: 1
+	Query: "Aneides aeneus" ; Times: 1
+	Query: "anaxyrus microscaphus" ; Times: 2
+	Query: "heloderma suspectum" ; Times: 1
+	Query: "candoia paulsoni" ; Times: 1
+	Query: "Plethodon hoffmani" ; Times: 1
+
+
+End of report.
