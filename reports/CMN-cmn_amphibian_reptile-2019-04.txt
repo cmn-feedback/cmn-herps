@@ -1,0 +1,198 @@
+Report for Institution Code CMN, Resource cmn_amphibian_reptile
+Usage stats for April 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 91
+Number of records retrieved in searches: 301
+Number of different countries where searches have been originated: 17
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 6
+	Country: United States ; Times: 43
+	Country: Australia ; Times: 2
+	Country: Italy ; Times: 1
+	Country: Bangladesh ; Times: 1
+	Country: South Africa ; Times: 1
+	Country: Unknown ; Times: 2
+	Country: Mexico ; Times: 1
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 3
+	Country: Sweden ; Times: 1
+	Country: Germany ; Times: 3
+	Country: Chile ; Times: 1
+	Country: Switzerland ; Times: 7
+	Country: Japan ; Times: 2
+	Country: Argentina ; Times: 15
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-04 ; Times: 5
+	Date: 2019-04-19 ; Times: 2
+	Date: 2019-04-18 ; Times: 3
+	Date: 2019-04-23 ; Times: 4
+	Date: 2019-04-12 ; Times: 4
+	Date: 2019-04-11 ; Times: 7
+	Date: 2019-04-17 ; Times: 3
+	Date: 2019-04-16 ; Times: 3
+	Date: 2019-04-15 ; Times: 1
+	Date: 2019-04-30 ; Times: 1
+	Date: 2019-04-01 ; Times: 10
+	Date: 2019-04-02 ; Times: 7
+	Date: 2019-04-03 ; Times: 8
+	Date: 2019-04-06 ; Times: 1
+	Date: 2019-04-22 ; Times: 2
+	Date: 2019-04-05 ; Times: 5
+	Date: 2019-04-20 ; Times: 6
+	Date: 2019-04-21 ; Times: 1
+	Date: 2019-04-26 ; Times: 6
+	Date: 2019-04-27 ; Times: 1
+	Date: 2019-04-24 ; Times: 3
+	Date: 2019-04-25 ; Times: 3
+	Date: 2019-04-09 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Ctenosaura acanthura mappable:1" ; Times: 1
+	Query: "catalognumber:1980 institutioncode:CMN" ; Times: 1
+	Query: "bombina variegata" ; Times: 1
+	Query: "Anolis evermanni mappable:1" ; Times: 1
+	Query: "catalognumber:31709" ; Times: 1
+	Query: "Sauromalus inyo county" ; Times: 1
+	Query: "Crotalus adamanteus mappable:1" ; Times: 1
+	Query: "Feline" ; Times: 1
+	Query: "Ambystoma cingulatum" ; Times: 1
+	Query: "catalognumber:33096" ; Times: 1
+	Query: "catalognumber:33045" ; Times: 1
+	Query: "&#34;stormont&#34;" ; Times: 2
+	Query: "locality:queen lake" ; Times: 1
+	Query: "Anolis gundlachi mappable:1" ; Times: 1
+	Query: "tomistoma" ; Times: 1
+	Query: "catalognumber:33072" ; Times: 1
+	Query: "35899" ; Times: 1
+	Query: "16987" ; Times: 1
+	Query: "Leptopelis viridis" ; Times: 1
+	Query: "crotalus klauberi" ; Times: 2
+	Query: "tomistoma schlegelii" ; Times: 2
+	Query: "Pelobates fuscus" ; Times: 1
+	Query: "Salvadora hexalepis mojavensis" ; Times: 1
+	Query: "crocodylus palustris" ; Times: 1
+	Query: "Phrynosoma douglasii mappable:1" ; Times: 1
+	Query: "Polychrus gutturosus mappable:1" ; Times: 1
+	Query: "sphenodon" ; Times: 1
+	Query: "contortrix missouri" ; Times: 2
+	Query: "wizard" ; Times: 2
+	Query: "spea hammondi" ; Times: 1
+	Query: "catalognumber:1327" ; Times: 1
+	Query: "35131" ; Times: 1
+	Query: "catalognumber:1297" ; Times: 2
+	Query: "35132" ; Times: 1
+	Query: "lampropeltis alterna" ; Times: 1
+	Query: "25148" ; Times: 1
+	Query: "Varanus niloticus mappable:1" ; Times: 1
+	Query: "30274" ; Times: 1
+	Query: "Coleonyx elegans mappable:1" ; Times: 1
+	Query: "Tantilla coronata mappable:1" ; Times: 1
+	Query: "queen lake" ; Times: 1
+	Query: "Pickering institutioncode:CMN" ; Times: 2
+	Query: "Boa constrictor mappable:1" ; Times: 1
+	Query: "Chamaeleo dilepis mappable:1" ; Times: 1
+	Query: "Paramesotriton deloustali" ; Times: 2
+	Query: "dendroaspis polylepis" ; Times: 1
+	Query: "10313" ; Times: 1
+	Query: "&#34;battle creek&#34; &#34;saskatchewan&#34;" ; Times: 1
+	Query: "emydoidea blandingi" ; Times: 3
+	Query: "locality:herron" ; Times: 1
+	Query: "&#34;welder wildlife foundation&#34;" ; Times: 1
+	Query: "28459" ; Times: 1
+	Query: "Anolis stratulus mappable:1" ; Times: 1
+	Query: "Phrynosoma solare mappable:1" ; Times: 1
+	Query: "catalognumber:1154 institutioncode:CMN" ; Times: 2
+	Query: "21264" ; Times: 2
+	Query: "31709" ; Times: 1
+	Query: "catalognumber:33041" ; Times: 1
+	Query: "11235" ; Times: 1
+	Query: "shinisaurus" ; Times: 2
+	Query: "Ambystoma bishopi" ; Times: 1
+	Query: "Pinus strobus mappable:1" ; Times: 1
+	Query: "catalognumber:32293" ; Times: 1
+	Query: "Chiromantis xerampelina" ; Times: 1
+	Query: "locality:brandon stateprovince:&#34;Manitoba&#34;" ; Times: 2
+	Query: "catalognumber:14663" ; Times: 1
+	Query: "33461" ; Times: 1
+	Query: "Platysternon" ; Times: 2
+	Query: "Coniophanes imperialis mappable:1" ; Times: 1
+	Query: "cmn E924" ; Times: 1
+	Query: "Dermochelys coriacea mappable:1" ; Times: 1
+	Query: "Ceratophrys ornata" ; Times: 1
+	Query: "catalognumber:32540" ; Times: 1
+	Query: "36394" ; Times: 1
+	Query: "33026" ; Times: 1
+	Query: "vntype:specimen county:&#34;lampasas&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 35 (out of 1263 download events in this period)
+Total number of records downloaded: 1597
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: Israel ; Times: 1
+	Country: South Africa ; Times: 2
+	Country: Mexico ; Times: 7
+	Country: India ; Times: 1
+	Country: United States ; Times: 17
+	Country: Malaysia ; Times: 1
+	Country: Germany ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-07 ; Times: 1
+	Date: 2019-04-13 ; Times: 1
+	Date: 2019-04-12 ; Times: 2
+	Date: 2019-04-11 ; Times: 1
+	Date: 2019-04-10 ; Times: 1
+	Date: 2019-04-16 ; Times: 4
+	Date: 2019-04-23 ; Times: 2
+	Date: 2019-04-20 ; Times: 8
+	Date: 2019-04-21 ; Times: 3
+	Date: 2019-04-26 ; Times: 2
+	Date: 2019-04-06 ; Times: 2
+	Date: 2019-04-02 ; Times: 2
+	Date: 2019-04-29 ; Times: 3
+	Date: 2019-04-08 ; Times: 1
+	Date: 2019-04-09 ; Times: 1
+	Date: 2019-04-27 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Plethodon wehrlei" ; Times: 1
+	Query: "Sonora episcopa" ; Times: 1
+	Query: "desmognathus auriculatus" ; Times: 1
+	Query: "Eleutherodactylus portoricensis" ; Times: 1
+	Query: "Ambystoma rosaceum" ; Times: 1
+	Query: "Ambystoma cingulatum" ; Times: 1
+	Query: "lachesis" ; Times: 2
+	Query: "emydoidea blandingii" ; Times: 3
+	Query: "Ambystoma mabeei" ; Times: 1
+	Query: "Crotalus stephensi" ; Times: 1
+	Query: "candoia carinata" ; Times: 1
+	Query: "Delhi" ; Times: 1
+	Query: "Ambystoma mavortium" ; Times: 1
+	Query: "Ceratophrys" ; Times: 1
+	Query: "Xantusia Arizona" ; Times: 1
+	Query: "Crotalus oreganus" ; Times: 1
+	Query: "Kyrgyzstan" ; Times: 1
+	Query: "dendroaspis polylepis" ; Times: 2
+	Query: "Leptodactylus latinasus" ; Times: 1
+	Query: "Ambystoma talpoideum" ; Times: 1
+	Query: "Crotalus adamanteus" ; Times: 1
+	Query: "Crotalus horridus" ; Times: 2
+	Query: "Ambystoma bishopi" ; Times: 1
+	Query: "Desmognathus auriculatus" ; Times: 1
+	Query: "ambystoma maculatum" ; Times: 1
+	Query: "emydoidea blandingi" ; Times: 2
+	Query: "Odontophrynus" ; Times: 1
+	Query: "Ambystoma macrodactylum" ; Times: 1
+	Query: "Ambystoma gracile" ; Times: 1
+
+
+End of report.
