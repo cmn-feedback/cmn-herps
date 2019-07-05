@@ -1,0 +1,159 @@
+Report for Institution Code CMN, Resource cmn_amphibian_reptile
+Usage stats for June 2019, generated on 2019/07/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 76
+Number of records retrieved in searches: 385
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: Brazil ; Times: 1
+	Country: Russia ; Times: 1
+	Country: Australia ; Times: 2
+	Country: Unknown ; Times: 1
+	Country: Panama ; Times: 2
+	Country: France ; Times: 7
+	Country: United States ; Times: 49
+	Country: Dominican Republic ; Times: 1
+	Country: Hong Kong ; Times: 5
+	Country: Argentina ; Times: 4
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-06-20 ; Times: 5
+	Date: 2019-06-21 ; Times: 6
+	Date: 2019-06-05 ; Times: 12
+	Date: 2019-06-19 ; Times: 5
+	Date: 2019-06-25 ; Times: 8
+	Date: 2019-06-26 ; Times: 3
+	Date: 2019-06-27 ; Times: 1
+	Date: 2019-06-06 ; Times: 2
+	Date: 2019-06-07 ; Times: 2
+	Date: 2019-06-16 ; Times: 1
+	Date: 2019-06-11 ; Times: 7
+	Date: 2019-06-03 ; Times: 3
+	Date: 2019-06-13 ; Times: 1
+	Date: 2019-06-10 ; Times: 6
+	Date: 2019-06-30 ; Times: 3
+	Date: 2019-06-15 ; Times: 1
+	Date: 2019-06-29 ; Times: 2
+	Date: 2019-06-24 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "Tomistoma schlegelii" ; Times: 1
+	Query: "Crocodylus niloticus" ; Times: 1
+	Query: "26903" ; Times: 1
+	Query: "20971" ; Times: 1
+	Query: "Lampropeltis pyromelana" ; Times: 1
+	Query: "Lampropeltis Pyromelana" ; Times: 1
+	Query: "catalognumber:37434" ; Times: 1
+	Query: "sternotherus odoratus year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "13939" ; Times: 1
+	Query: "Lithobates heckscheri" ; Times: 4
+	Query: "Shinisaurus crocodilurus" ; Times: 1
+	Query: "10691" ; Times: 1
+	Query: "plethodon stormi" ; Times: 1
+	Query: "eunectes" ; Times: 1
+	Query: "catalognumber:16448" ; Times: 1
+	Query: "wizard" ; Times: 2
+	Query: "carex" ; Times: 1
+	Query: "LAMPROPELTIS PYROMELANA" ; Times: 1
+	Query: "stateprovince:&#34;California&#34; (Lithobates catesbeianus) institutioncode:CMN" ; Times: 1
+	Query: "tropidophis canus" ; Times: 3
+	Query: "Ceratophrys" ; Times: 1
+	Query: "catalognumber:8961" ; Times: 3
+	Query: "catalognumber:26798" ; Times: 1
+	Query: "28317" ; Times: 1
+	Query: "catalognumber:2342" ; Times: 1
+	Query: "Crotalus mitchelli arizona" ; Times: 1
+	Query: "lampropeltis alterna" ; Times: 3
+	Query: "Crotalus molossus Texas" ; Times: 1
+	Query: "30586" ; Times: 1
+	Query: "Lithobates catesbeianus stateprovince:&#34;California&#34; institutioncode:CMN" ; Times: 2
+	Query: "Anolis cuvieri" ; Times: 1
+	Query: "Aristelliger praesignis" ; Times: 2
+	Query: "Elaphe moellendorffi" ; Times: 2
+	Query: "Mauremys reevesii" ; Times: 1
+	Query: "Cemophora coccinea copei" ; Times: 1
+	Query: "sphaerodactylus gaigeae" ; Times: 1
+	Query: "Anilius" ; Times: 1
+	Query: "Lithobates catesbeianus stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "garridoi" ; Times: 1
+	Query: "bombina variegata" ; Times: 3
+	Query: "Eumeces septentrionalis" ; Times: 1
+	Query: "Platysternon megacephalum" ; Times: 1
+	Query: "Pseudoeryx" ; Times: 1
+	Query: "Pyromelana" ; Times: 1
+	Query: "25978" ; Times: 1
+	Query: "Geochelone carbonaria" ; Times: 2
+	Query: "EMOIA NIGRA FIJI" ; Times: 1
+	Query: "Rana draytonii mappable:1" ; Times: 3
+	Query: "liopeltis" ; Times: 2
+	Query: "Heosemys spinosa" ; Times: 1
+	Query: "institutioncode:CMN" ; Times: 2
+	Query: "catalognumber:32210" ; Times: 2
+	Query: "sternotherus odoratus preparations:dry" ; Times: 2
+	Query: "M-9561" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 37 (out of 1182 download events in this period)
+Total number of records downloaded: 1828
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: United States ; Times: 30
+	Country: Mexico ; Times: 1
+	Country: Bangladesh ; Times: 1
+	Country: Puerto Rico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-06-21 ; Times: 8
+	Date: 2019-06-22 ; Times: 1
+	Date: 2019-06-05 ; Times: 2
+	Date: 2019-06-08 ; Times: 4
+	Date: 2019-06-06 ; Times: 1
+	Date: 2019-06-07 ; Times: 3
+	Date: 2019-06-04 ; Times: 7
+	Date: 2019-06-16 ; Times: 1
+	Date: 2019-06-03 ; Times: 5
+	Date: 2019-06-01 ; Times: 1
+	Date: 2019-06-14 ; Times: 1
+	Date: 2019-06-12 ; Times: 1
+	Date: 2019-06-10 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "marmot" ; Times: 2
+	Query: "Cougar" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 3
+	Query: "eunectes" ; Times: 1
+	Query: "nerodia harteri" ; Times: 1
+	Query: "cougar" ; Times: 5
+	Query: "aneides aeneus" ; Times: 1
+	Query: "Agalychnis callidryas" ; Times: 1
+	Query: "Farancia" ; Times: 1
+	Query: "moose" ; Times: 1
+	Query: "Cylindrophis" ; Times: 1
+	Query: "houstonensis" ; Times: 1
+	Query: "Thamnophis sirtalis" ; Times: 1
+	Query: "blue jay" ; Times: 1
+	Query: "Phrynosoma orbiculare" ; Times: 1
+	Query: "Acrochordus" ; Times: 1
+	Query: "country:&#34;Puerto Rico&#34;" ; Times: 1
+	Query: "Anilius" ; Times: 1
+	Query: "rana cascadae" ; Times: 1
+	Query: "Pseudoeryx" ; Times: 1
+	Query: "malacochersus" ; Times: 1
+	Query: "Rana pretiosa" ; Times: 1
+	Query: "micrurus fulvius" ; Times: 1
+	Query: "brook trout" ; Times: 2
+	Query: "Tupinambis teguixin" ; Times: 2
+	Query: "tARICHA GRANULOSA" ; Times: 1
+	Query: "Spea intermontana" ; Times: 1
+	Query: "Xenopeltis" ; Times: 1
+
+
+End of report.
