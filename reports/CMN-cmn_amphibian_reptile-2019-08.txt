@@ -1,0 +1,181 @@
+Report for Institution Code CMN, Resource cmn_amphibian_reptile
+Usage stats for August 2019, generated on 2019/09/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 176
+Number of records retrieved in searches: 1356
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 8
+	Country: Canada ; Times: 4
+	Country: Mexico ; Times: 6
+	Country: Unknown ; Times: 2
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 6
+	Country: Germany ; Times: 1
+	Country: Peru ; Times: 1
+	Country: Puerto Rico ; Times: 2
+	Country: Argentina ; Times: 5
+	Country: United States ; Times: 127
+	Country: Russia ; Times: 13
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-27 ; Times: 16
+	Date: 2019-08-06 ; Times: 1
+	Date: 2019-08-08 ; Times: 12
+	Date: 2019-08-29 ; Times: 9
+	Date: 2019-08-01 ; Times: 1
+	Date: 2019-08-02 ; Times: 5
+	Date: 2019-08-03 ; Times: 2
+	Date: 2019-08-05 ; Times: 16
+	Date: 2019-08-28 ; Times: 3
+	Date: 2019-08-07 ; Times: 6
+	Date: 2019-08-26 ; Times: 11
+	Date: 2019-08-09 ; Times: 5
+	Date: 2019-08-22 ; Times: 2
+	Date: 2019-08-23 ; Times: 1
+	Date: 2019-08-20 ; Times: 13
+	Date: 2019-08-21 ; Times: 14
+	Date: 2019-08-15 ; Times: 28
+	Date: 2019-08-14 ; Times: 6
+	Date: 2019-08-13 ; Times: 8
+	Date: 2019-08-12 ; Times: 2
+	Date: 2019-08-11 ; Times: 2
+	Date: 2019-08-10 ; Times: 2
+	Date: 2019-08-31 ; Times: 3
+	Date: 2019-08-30 ; Times: 1
+	Date: 2019-08-19 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "locality:Roaring River State Park" ; Times: 1
+	Query: "coniophanes imperialis" ; Times: 1
+	Query: "Sistrurus catenatus" ; Times: 9
+	Query: "Kolpophis annandalei" ; Times: 1
+	Query: "Leptodactylus albilabris" ; Times: 1
+	Query: "Sistrurus catenatus catenatus" ; Times: 15
+	Query: "Gopherus agassizii" ; Times: 4
+	Query: "Lampropeltis alterna" ; Times: 15
+	Query: "paleosuchus" ; Times: 4
+	Query: "Osteocephalus taurinus" ; Times: 1
+	Query: "Podocnemis expansa" ; Times: 1
+	Query: "Drymarchon couperi" ; Times: 17
+	Query: "Chrysobatrachus" ; Times: 1
+	Query: "30879" ; Times: 1
+	Query: "daboia russelli" ; Times: 1
+	Query: "Hydrophis fasciatus" ; Times: 1
+	Query: "wizard" ; Times: 1
+	Query: "Drymarchon corais couperi" ; Times: 13
+	Query: "Leptodactylus rhodomystax" ; Times: 1
+	Query: "Pseudotriton montanus Virginia" ; Times: 1
+	Query: "Melanophryniscus rubriventris" ; Times: 1
+	Query: "Crotalus lepidus klauberi" ; Times: 2
+	Query: "lampropeltis alterna" ; Times: 1
+	Query: "20284" ; Times: 1
+	Query: "24771" ; Times: 3
+	Query: "Drymarchon corais" ; Times: 6
+	Query: "29919" ; Times: 1
+	Query: "Pseudotriton montanus stateprovince:&#34;Virginia&#34;" ; Times: 1
+	Query: "Incilius alvarius mappable:1" ; Times: 3
+	Query: "Salamandrella" ; Times: 1
+	Query: "Hydrophis caerulescens" ; Times: 3
+	Query: "institutioncode:CMN" ; Times: 1
+	Query: "Rana aurora" ; Times: 6
+	Query: "Leptodactylus podicipinus" ; Times: 1
+	Query: "Leptodactylus albilabris mappable:1" ; Times: 1
+	Query: "Rana draytonii" ; Times: 3
+	Query: "21879" ; Times: 1
+	Query: "Hylarana erythraea mappable:1" ; Times: 1
+	Query: "Eleutherodactylus karlschmidti" ; Times: 2
+	Query: "24292" ; Times: 1
+	Query: "Crocodylus acutus" ; Times: 6
+	Query: "19485" ; Times: 1
+	Query: "Hydrophis klossi" ; Times: 2
+	Query: "Hyperolius marmoratus mappable:1" ; Times: 1
+	Query: "Hyla gratiosa" ; Times: 1
+	Query: "catalognumber:6995" ; Times: 1
+	Query: "28575" ; Times: 3
+	Query: "gbifdatasetid:74f92761-3a24-4d85-9bfb-00b1fee0119d" ; Times: 1
+	Query: "st. Catherines" ; Times: 1
+	Query: "28574" ; Times: 1
+	Query: "lithobates clamitans stateprovince:&#34;Tennessee&#34;" ; Times: 1
+	Query: "Nostoc" ; Times: 1
+	Query: "crotalus tigris" ; Times: 5
+	Query: "eublepharis" ; Times: 1
+	Query: "29929" ; Times: 1
+	Query: "Crotalus viridis concolor" ; Times: 1
+	Query: "institutioncode:CMN basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Acrochordus javanicus" ; Times: 1
+	Query: "Ranodon sibiricus" ; Times: 14
+	Query: "acris gryllus maryland" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 36 (out of 1034 download events in this period)
+Total number of records downloaded: 748
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 20
+	Country: Unknown ; Times: 2
+	Country: France ; Times: 1
+	Country: United States ; Times: 7
+	Country: Germany ; Times: 1
+	Country: Bolivia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-09 ; Times: 1
+	Date: 2019-08-06 ; Times: 1
+	Date: 2019-08-10 ; Times: 2
+	Date: 2019-08-02 ; Times: 7
+	Date: 2019-08-01 ; Times: 4
+	Date: 2019-08-15 ; Times: 3
+	Date: 2019-08-13 ; Times: 5
+	Date: 2019-08-05 ; Times: 2
+	Date: 2019-08-28 ; Times: 2
+	Date: 2019-08-29 ; Times: 1
+	Date: 2019-08-27 ; Times: 2
+	Date: 2019-08-25 ; Times: 2
+	Date: 2019-08-31 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Kolpophis annandalei" ; Times: 1
+	Query: "crotalus molossus" ; Times: 1
+	Query: "Sceloporus scalaris" ; Times: 1
+	Query: "sistrurus catenatus tergeminus" ; Times: 1
+	Query: "typhlops" ; Times: 1
+	Query: "Hemidactylus turcicus" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 1
+	Query: "Crotalus stephensi" ; Times: 1
+	Query: "Hydrophis fasciatus" ; Times: 1
+	Query: "Masticophis bilineatus" ; Times: 1
+	Query: "country:&#34;Mexico&#34;" ; Times: 1
+	Query: "dendrophryniscus" ; Times: 1
+	Query: "Hydrophis cyanocinctus" ; Times: 1
+	Query: "Anniella pulchra" ; Times: 1
+	Query: "Oxybelis aeneus" ; Times: 1
+	Query: "Mastigodryas melanolomus" ; Times: 1
+	Query: "Salvadora grahamiae" ; Times: 1
+	Query: "Hydrophis caerulescens" ; Times: 1
+	Query: "Crotalus atrox" ; Times: 2
+	Query: "Phrynosoma orbiculare" ; Times: 1
+	Query: "Acrochordus" ; Times: 1
+	Query: "paleosuchus vntype:specimen" ; Times: 1
+	Query: "Hydrophis klossi" ; Times: 1
+	Query: "agalychnis callidryas" ; Times: 1
+	Query: "crotalus ruber" ; Times: 1
+	Query: "Crotalus molossus" ; Times: 1
+	Query: "anolis evermanni" ; Times: 1
+	Query: "urosaurus nigricaudus" ; Times: 1
+	Query: "rhinella marina" ; Times: 2
+	Query: "Acrochordus javanicus" ; Times: 1
+	Query: "Crotalus viridis concolor" ; Times: 1
+	Query: "Rhinocheilus lecontei" ; Times: 1
+	Query: "Chrysemys picta marginata" ; Times: 1
+	Query: "aneides lugubris" ; Times: 1
+
+
+End of report.
