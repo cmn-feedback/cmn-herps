@@ -1,0 +1,158 @@
+Report for Institution Code CMN, Resource cmn_amphibian_reptile
+Usage stats for September 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 125
+Number of records retrieved in searches: 269
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 20
+	Country: United States ; Times: 96
+	Country: Unknown ; Times: 3
+	Country: United Kingdom ; Times: 3
+	Country: Chile ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-14 ; Times: 1
+	Date: 2019-09-16 ; Times: 3
+	Date: 2019-09-17 ; Times: 1
+	Date: 2019-09-10 ; Times: 1
+	Date: 2019-09-11 ; Times: 8
+	Date: 2019-09-13 ; Times: 1
+	Date: 2019-09-18 ; Times: 2
+	Date: 2019-09-19 ; Times: 1
+	Date: 2019-09-09 ; Times: 12
+	Date: 2019-09-03 ; Times: 1
+	Date: 2019-09-02 ; Times: 5
+	Date: 2019-09-07 ; Times: 1
+	Date: 2019-09-06 ; Times: 53
+	Date: 2019-09-04 ; Times: 8
+	Date: 2019-09-21 ; Times: 2
+	Date: 2019-09-23 ; Times: 1
+	Date: 2019-09-22 ; Times: 1
+	Date: 2019-09-25 ; Times: 6
+	Date: 2019-09-24 ; Times: 4
+	Date: 2019-09-27 ; Times: 7
+	Date: 2019-09-26 ; Times: 3
+	Date: 2019-09-29 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "15722" ; Times: 1
+	Query: "27957" ; Times: 1
+	Query: "32980" ; Times: 1
+	Query: "arvalis Rana" ; Times: 1
+	Query: "Helicops leopardinus mappable:1" ; Times: 1
+	Query: "Lampropeltis (abnorma OR annulata OR elapsoides OR gentilis OR micropholis OR polyzona OR triangulum) hastissue:1" ; Times: 1
+	Query: "fowleri fairfax" ; Times: 1
+	Query: "Pipa pipa mappable:1" ; Times: 1
+	Query: "Crocodylus niloticus" ; Times: 4
+	Query: "Lions" ; Times: 3
+	Query: "Eunectes murinus mappable:1" ; Times: 1
+	Query: "bufo pardalis" ; Times: 1
+	Query: "Epicrates cenchria cenchria mappable:1" ; Times: 1
+	Query: "Epicrates cenchria mappable:1" ; Times: 1
+	Query: "acris blanchardi michigan" ; Times: 1
+	Query: "Cyclura cornuta" ; Times: 1
+	Query: "16994." ; Times: 1
+	Query: "wizard" ; Times: 1
+	Query: "lampropeltis pyromelana" ; Times: 8
+	Query: "Crotalus lepidus klauberi" ; Times: 1
+	Query: "Platemys platycephala" ; Times: 7
+	Query: "Crotalus durissus mappable:1" ; Times: 1
+	Query: "clamitans stafford" ; Times: 1
+	Query: "Tennessee lithobates" ; Times: 3
+	Query: "Testudo horsfieldii" ; Times: 1
+	Query: "americanus clarke" ; Times: 1
+	Query: "21870" ; Times: 1
+	Query: "Aristelliger praesignis" ; Times: 1
+	Query: "rana arvalis" ; Times: 1
+	Query: "Callopistes" ; Times: 1
+	Query: "Ambystoma tigrinum" ; Times: 32
+	Query: "Ohio ambystoma" ; Times: 1
+	Query: "boa imperator" ; Times: 1
+	Query: "Drymarchon corais" ; Times: 20
+	Query: "Anilius" ; Times: 1
+	Query: "massassauga" ; Times: 1
+	Query: "catalognumber:20459" ; Times: 1
+	Query: "catalognumber:5481" ; Times: 1
+	Query: "Anilius scytale" ; Times: 1
+	Query: "Boa constrictor mappable:1" ; Times: 1
+	Query: "32960" ; Times: 1
+	Query: "Eunectes murinus murinus mappable:1" ; Times: 1
+	Query: "Agkistrodon bilineatus" ; Times: 4
+	Query: "carphophis fairfax" ; Times: 1
+	Query: "Physalaemus  biligonigerus mappable:1" ; Times: 2
+	Query: "Anilius scytale mappable:1" ; Times: 1
+	Query: "catalognumber:5841" ; Times: 1
+	Query: "Chironius carinatus mappable:1" ; Times: 1
+	Query: "37768" ; Times: 2
+	Query: "anilius scytale" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 31 (out of 1073 download events in this period)
+Total number of records downloaded: 2388
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 22
+	Country: Brunei ; Times: 1
+	Country: Indonesia ; Times: 1
+	Country: Brazil ; Times: 5
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-20 ; Times: 1
+	Date: 2019-09-16 ; Times: 2
+	Date: 2019-09-17 ; Times: 1
+	Date: 2019-09-11 ; Times: 3
+	Date: 2019-09-12 ; Times: 1
+	Date: 2019-09-13 ; Times: 1
+	Date: 2019-09-29 ; Times: 2
+	Date: 2019-09-26 ; Times: 1
+	Date: 2019-09-18 ; Times: 2
+	Date: 2019-09-19 ; Times: 3
+	Date: 2019-09-30 ; Times: 4
+	Date: 2019-09-09 ; Times: 3
+	Date: 2019-09-08 ; Times: 1
+	Date: 2019-09-23 ; Times: 1
+	Date: 2019-09-03 ; Times: 1
+	Date: 2019-09-27 ; Times: 2
+	Date: 2019-09-04 ; Times: 1
+	Date: 2019-09-22 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "crocodylus acutus" ; Times: 1
+	Query: "Tantilla coronata" ; Times: 2
+	Query: "Lithobates catesbeianus" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 3
+	Query: "Crocodylus niloticus" ; Times: 1
+	Query: "Opheodrys" ; Times: 1
+	Query: "elgaria multicarinata" ; Times: 1
+	Query: "hemiophrys (Bufo OR Anaxyrus)" ; Times: 1
+	Query: "agkistrodon bilineatus" ; Times: 1
+	Query: "eurycea longicauda virginia" ; Times: 1
+	Query: "lampropeltis pyromelana" ; Times: 1
+	Query: "Trimorphodon biscutatus" ; Times: 1
+	Query: "Mastigodryas melanolomus" ; Times: 1
+	Query: "Reptilia Missouri" ; Times: 1
+	Query: "Salvadora grahamiae" ; Times: 1
+	Query: "coleonyx variegatus" ; Times: 1
+	Query: "Lampropeltis (abnorma OR annulata OR elapsoides OR gentilis OR micropholis OR polyzona OR triangulum) hastissue:1" ; Times: 1
+	Query: "boa imperator" ; Times: 1
+	Query: "Reptilia Dakota" ; Times: 1
+	Query: "Dipsosaurus dorsalis" ; Times: 1
+	Query: "Amphibia Colorado" ; Times: 1
+	Query: "deirochelys" ; Times: 1
+	Query: "caiman crocodilus" ; Times: 1
+	Query: "jaculus jaculus" ; Times: 1
+	Query: "Amphibia Dakota" ; Times: 1
+	Query: "coluber constrictor virginia" ; Times: 1
+	Query: "anilius scytale" ; Times: 2
+
+
+End of report.
