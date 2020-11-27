@@ -1,0 +1,231 @@
+Report for Institution Code CMN, Resource cmn_amphibian_reptile
+Usage stats for May 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 102
+Number of records retrieved in searches: 257
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Australia ; Times: 5
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 4
+	Country: Singapore ; Times: 5
+	Country: India ; Times: 2
+	Country: Luxembourg ; Times: 2
+	Country: United States ; Times: 59
+	Country: Germany ; Times: 9
+	Country: Ireland ; Times: 1
+	Country: Belgium ; Times: 1
+	Country: Hong Kong ; Times: 1
+	Country: Ecuador ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-25 ; Times: 1
+	Date: 2020-05-24 ; Times: 1
+	Date: 2020-05-27 ; Times: 2
+	Date: 2020-05-26 ; Times: 6
+	Date: 2020-05-21 ; Times: 2
+	Date: 2020-05-23 ; Times: 4
+	Date: 2020-05-29 ; Times: 1
+	Date: 2020-05-28 ; Times: 2
+	Date: 2020-05-18 ; Times: 3
+	Date: 2020-05-19 ; Times: 5
+	Date: 2020-05-10 ; Times: 15
+	Date: 2020-05-12 ; Times: 2
+	Date: 2020-05-14 ; Times: 1
+	Date: 2020-05-15 ; Times: 2
+	Date: 2020-05-17 ; Times: 2
+	Date: 2020-05-09 ; Times: 7
+	Date: 2020-05-08 ; Times: 4
+	Date: 2020-05-07 ; Times: 21
+	Date: 2020-05-06 ; Times: 7
+	Date: 2020-05-05 ; Times: 2
+	Date: 2020-05-04 ; Times: 3
+	Date: 2020-05-03 ; Times: 4
+	Date: 2020-05-02 ; Times: 1
+	Date: 2020-05-01 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "16883" ; Times: 1
+	Query: "leiopelma hochstetteri" ; Times: 2
+	Query: "ACRANTOPHIS" ; Times: 1
+	Query: "Pituophis catenifer county:&#34;Harney&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "36580" ; Times: 1
+	Query: "24183" ; Times: 1
+	Query: "crotalus horridus new york" ; Times: 1
+	Query: "Sphenodon" ; Times: 9
+	Query: "ctenosaura acanthura" ; Times: 1
+	Query: "polychrus gutturosus" ; Times: 8
+	Query: "CMNAR 16938" ; Times: 2
+	Query: "corytophanes hernandezii" ; Times: 1
+	Query: "Hypsiglena slevini" ; Times: 1
+	Query: "Coluber constrictor county:&#34;Lane&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "33797" ; Times: 1
+	Query: "Aneides ferreus stateprovince:&#34;Oregon&#34; year &gt;= 1980 year &lt;= 2020" ; Times: 1
+	Query: "Batrachoseps wrighti stateprovince:&#34;Oregon&#34; year &gt;= 1980 year &lt;= 2020" ; Times: 1
+	Query: "Ambystoma gracile stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "Trimeresurus albolabris" ; Times: 2
+	Query: "catalognumber:26392" ; Times: 1
+	Query: "(19565)" ; Times: 1
+	Query: "wizard" ; Times: 1
+	Query: "34410" ; Times: 1
+	Query: "lampropeltis pyromelana" ; Times: 1
+	Query: "16804" ; Times: 1
+	Query: "Basiliscus basiliscus panama" ; Times: 1
+	Query: "34415" ; Times: 1
+	Query: "33761" ; Times: 1
+	Query: "reptilia county:&#34;broome&#34; stateprovince:&#34;new york&#34;" ; Times: 1
+	Query: "catalognumber:16611" ; Times: 2
+	Query: "chelydra serpentina louisiana" ; Times: 3
+	Query: "crotalus horridus stateprovince:&#34;new york&#34;" ; Times: 1
+	Query: "Batrachoseps attenuatus stateprovince:&#34;Oregon&#34;" ; Times: 2
+	Query: "lampropeltis alterna" ; Times: 5
+	Query: "Plethodon vehiculum county:&#34;Curry&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "18482" ; Times: 1
+	Query: "Batrachoseps wrighti county:&#34;Lane&#34; stateprovince:&#34;Oregon&#34; year &gt;= 1980 year &lt;= 2020" ; Times: 1
+	Query: "anolis carolinensis mississippi" ; Times: 1
+	Query: "Thamnophis elegans vagrans stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "crotalus powell" ; Times: 1
+	Query: "Pelochelys bibroni" ; Times: 1
+	Query: "acanthosaura armata" ; Times: 2
+	Query: "catalognumber:26392 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "28960" ; Times: 1
+	Query: "Pituophis catenifer county:&#34;Malheur&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "Notophthalmus viridescens 2011" ; Times: 1
+	Query: "Anolis petersi" ; Times: 1
+	Query: "Coluber constrictor stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "Notophthalmus viridescens 2012" ; Times: 1
+	Query: "argent" ; Times: 1
+	Query: "catalognumber:19612" ; Times: 1
+	Query: "acris gryllus calhoun" ; Times: 1
+	Query: "Laemanctus serratus" ; Times: 1
+	Query: "36803" ; Times: 1
+	Query: "CMNAR 13270" ; Times: 2
+	Query: "catalognumber:31824" ; Times: 1
+	Query: "37232" ; Times: 2
+	Query: "Thamnophis hammondi" ; Times: 1
+	Query: "catalognumber:16369" ; Times: 1
+	Query: "Ambystoma gracile county:&#34;Lane&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "heterodon Texas pecos" ; Times: 1
+	Query: "33042" ; Times: 1
+	Query: "20009" ; Times: 1
+	Query: "Lampropeltis holbrooki" ; Times: 2
+	Query: "Litoria nigropunctata" ; Times: 3
+	Query: "crotalus tigris" ; Times: 1
+	Query: "37765" ; Times: 1
+	Query: "catalognumber:28784" ; Times: 2
+	Query: "podocnemis expansa" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 77 (out of 1106 download events in this period)
+Total number of records downloaded: 11124
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 44
+	Country: Australia ; Times: 9
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 5
+	Country: Singapore ; Times: 9
+	Country: India ; Times: 3
+	Country: United Kingdom ; Times: 2
+	Country: Germany ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-24 ; Times: 5
+	Date: 2020-05-26 ; Times: 3
+	Date: 2020-05-23 ; Times: 4
+	Date: 2020-05-31 ; Times: 2
+	Date: 2020-05-22 ; Times: 3
+	Date: 2020-05-28 ; Times: 2
+	Date: 2020-05-04 ; Times: 1
+	Date: 2020-05-18 ; Times: 3
+	Date: 2020-05-19 ; Times: 5
+	Date: 2020-05-06 ; Times: 9
+	Date: 2020-05-09 ; Times: 3
+	Date: 2020-05-08 ; Times: 8
+	Date: 2020-05-07 ; Times: 2
+	Date: 2020-05-11 ; Times: 3
+	Date: 2020-05-05 ; Times: 12
+	Date: 2020-05-13 ; Times: 2
+	Date: 2020-05-03 ; Times: 1
+	Date: 2020-05-15 ; Times: 1
+	Date: 2020-05-01 ; Times: 4
+	Date: 2020-05-12 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "emydoidea" ; Times: 1
+	Query: "EURYCEA LONGICAUDA" ; Times: 1
+	Query: "Sphenodon" ; Times: 1
+	Query: "ctenosaura acanthura" ; Times: 1
+	Query: "Dipsosaurus Arizona" ; Times: 1
+	Query: "Nerodia harteri" ; Times: 1
+	Query: "Lithobates" ; Times: 1
+	Query: "corytophanes hernandezii" ; Times: 1
+	Query: "Cynops" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 1
+	Query: "Opheodrys aestivus" ; Times: 1
+	Query: "hemidactylus turcicus" ; Times: 2
+	Query: "Rhinophrynus dorsalis" ; Times: 1
+	Query: "Charina bottae" ; Times: 4
+	Query: "Emoia nigra" ; Times: 1
+	Query: "heloderma suspectum" ; Times: 1
+	Query: "Trimeresurus albolabris" ; Times: 3
+	Query: "Thamnophis radix" ; Times: 1
+	Query: "Notophthalmus viridescens 2012" ; Times: 1
+	Query: "Anolis cristatellus" ; Times: 1
+	Query: "lithobates catesbeianus" ; Times: 1
+	Query: "caretta caretta" ; Times: 1
+	Query: "amphiuma tridactylum" ; Times: 1
+	Query: "Terrapene carolina" ; Times: 1
+	Query: "Arizona elegans" ; Times: 1
+	Query: "Cryptobranchus alleganiensis" ; Times: 1
+	Query: "reptilia oregon" ; Times: 1
+	Query: "Ambystoma opacum" ; Times: 1
+	Query: "Limnonectes" ; Times: 1
+	Query: "PLETHODON MISSISSIPPI" ; Times: 1
+	Query: "Cynops pyrrhogaster" ; Times: 3
+	Query: "Agkistrodon contortrix" ; Times: 1
+	Query: "ctenosaura similis" ; Times: 1
+	Query: "Coleonyx variegatus" ; Times: 1
+	Query: "Hypsiglena slevini" ; Times: 1
+	Query: "coleonyx elegans" ; Times: 1
+	Query: "Pelochelys bibroni" ; Times: 1
+	Query: "coleonyx variegatus" ; Times: 1
+	Query: "necturus maculosus" ; Times: 1
+	Query: "Thamnophis brachystoma" ; Times: 1
+	Query: "amphibia oregon" ; Times: 1
+	Query: "laemanctus serratus" ; Times: 1
+	Query: "phrynosoma orbiculare" ; Times: 1
+	Query: "Dicamptodon" ; Times: 1
+	Query: "Anolis petersi" ; Times: 1
+	Query: "gymnophiona" ; Times: 1
+	Query: "NOTOPHTHALMUS VIRIDESCENS" ; Times: 1
+	Query: "Heterodon nasicus" ; Times: 1
+	Query: "Phrynosoma coronatum" ; Times: 1
+	Query: "Hyla gratiosa" ; Times: 1
+	Query: "Notophthalmus viridescens 2011" ; Times: 1
+	Query: "Tetradactylus tetradactylus" ; Times: 1
+	Query: "crotalus pricei" ; Times: 1
+	Query: "Thamnophis hammondi" ; Times: 1
+	Query: "Paramesotriton" ; Times: 1
+	Query: "Storeria dekayi" ; Times: 1
+	Query: "taricha rivularis" ; Times: 1
+	Query: "Basiliscus vittatus" ; Times: 1
+	Query: "heloderma horridum" ; Times: 1
+	Query: "Agkistrodon piscivorus" ; Times: 1
+	Query: "Tylototriton" ; Times: 1
+	Query: "Notophthalmus viridescens" ; Times: 3
+	Query: "Lampropeltis holbrooki" ; Times: 1
+	Query: "Ambystoma gracile" ; Times: 1
+	Query: "CROTALUS HORRIDUS" ; Times: 2
+	Query: "Lissotriton" ; Times: 1
+
+
+End of report.
