@@ -1,0 +1,229 @@
+Report for Institution Code CMN, Resource cmn_amphibian_reptile
+Usage stats for January 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 364
+Number of records retrieved in searches: 1864
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 2
+	Country: Russia ; Times: 5
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 5
+	Country: Unknown ; Times: 3
+	Country: Tanzania ; Times: 1
+	Country: France ; Times: 2
+	Country: United Kingdom ; Times: 19
+	Country: China ; Times: 4
+	Country: South Korea ; Times: 1
+	Country: United States ; Times: 319
+	Country: New Zealand ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-29 ; Times: 21
+	Date: 2020-01-02 ; Times: 1
+	Date: 2020-01-01 ; Times: 1
+	Date: 2020-01-17 ; Times: 8
+	Date: 2020-01-18 ; Times: 71
+	Date: 2020-01-19 ; Times: 2
+	Date: 2020-01-16 ; Times: 1
+	Date: 2020-01-25 ; Times: 1
+	Date: 2020-01-20 ; Times: 1
+	Date: 2020-01-23 ; Times: 6
+	Date: 2020-01-22 ; Times: 23
+	Date: 2020-01-10 ; Times: 8
+	Date: 2020-01-24 ; Times: 6
+	Date: 2020-01-27 ; Times: 2
+	Date: 2020-01-31 ; Times: 51
+	Date: 2020-01-30 ; Times: 148
+	Date: 2020-01-28 ; Times: 9
+	Date: 2020-01-09 ; Times: 3
+	Date: 2020-01-06 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "25179" ; Times: 1
+	Query: "blandingii Emydoidea" ; Times: 2
+	Query: "&#34;lichanura trivirgata&#34; country:united states" ; Times: 1
+	Query: "Rana draytonii 1852" ; Times: 5
+	Query: "catalognumber:11263" ; Times: 1
+	Query: "Anadia ocellata" ; Times: 1
+	Query: "catalognumber:24995" ; Times: 1
+	Query: "luteiventris Rana" ; Times: 2
+	Query: "colostethus pratti" ; Times: 1
+	Query: "Coleonyx mitratus" ; Times: 1
+	Query: "Emydoidea blandingii mappable:1" ; Times: 1
+	Query: "Rana draytonii 1917" ; Times: 5
+	Query: "12356" ; Times: 1
+	Query: "Dermochelys coriacea mappable:1" ; Times: 1
+	Query: "heterodon cook co" ; Times: 1
+	Query: "Chamaesaura tenuior" ; Times: 1
+	Query: "Rana draytonii 1616" ; Times: 5
+	Query: "Rana draytonii 1617" ; Times: 5
+	Query: "Acanthosaura armata" ; Times: 1
+	Query: "13990" ; Times: 1
+	Query: "Rana draytonii 1900" ; Times: 5
+	Query: "catalognumber:12682" ; Times: 1
+	Query: "Rana draytonii 933" ; Times: 4
+	Query: "catalognumber:25239" ; Times: 1
+	Query: "Rana draytonii 1986" ; Times: 6
+	Query: "Rana draytonii 1984" ; Times: 6
+	Query: "Rana draytonii 1985" ; Times: 6
+	Query: "temporaria Rana" ; Times: 4
+	Query: "Rana draytonii 1064" ; Times: 5
+	Query: "Rana draytonii 15" ; Times: 4
+	Query: "Rana draytonii 14" ; Times: 4
+	Query: "Rana draytonii 17" ; Times: 4
+	Query: "Rana draytonii 16" ; Times: 4
+	Query: "Rana draytonii 11" ; Times: 4
+	Query: "Rana draytonii 10" ; Times: 4
+	Query: "Rana draytonii 13" ; Times: 4
+	Query: "locality:&#34;Lake Hemet&#34; county:&#34;Riverside&#34;" ; Times: 1
+	Query: "Rana draytonii 19" ; Times: 4
+	Query: "testudo horsfieldii" ; Times: 1
+	Query: "phrynosoma orbiculare" ; Times: 1
+	Query: "Rana draytonii 241" ; Times: 4
+	Query: "Rana draytonii 242" ; Times: 4
+	Query: "Rana draytonii 246" ; Times: 4
+	Query: "pretiosa Rana" ; Times: 2
+	Query: "Lampropeltis pyromelana" ; Times: 77
+	Query: "Rana draytonii 1106" ; Times: 5
+	Query: "picta Chrysemys" ; Times: 5
+	Query: "ranodon sibiricus" ; Times: 4
+	Query: "Cyclura cornuta" ; Times: 1
+	Query: "Rana draytonii 2017" ; Times: 6
+	Query: "Rana draytonii 2018" ; Times: 6
+	Query: "Rana draytonii 18" ; Times: 4
+	Query: "sistrurus monroe" ; Times: 1
+	Query: "35114" ; Times: 2
+	Query: "catalognumber:35575" ; Times: 1
+	Query: "thamnophis cyrtopsis" ; Times: 4
+	Query: "Rana draytonii 33" ; Times: 4
+	Query: "calamita Bufo" ; Times: 1
+	Query: "Rana draytonii 30" ; Times: 4
+	Query: "Rana draytonii 37" ; Times: 4
+	Query: "Rana draytonii 35" ; Times: 4
+	Query: "Rana draytonii 34" ; Times: 4
+	Query: "salamandrella" ; Times: 1
+	Query: "Lacerta agilis" ; Times: 2
+	Query: "Rana draytonii 7" ; Times: 4
+	Query: "conopsis nasus sinaloa" ; Times: 1
+	Query: "Emys orbicularis" ; Times: 1
+	Query: "Rana draytonii 29" ; Times: 4
+	Query: "Shinisaurus crocodilurus" ; Times: 2
+	Query: "Rana draytonii 24" ; Times: 4
+	Query: "Rana draytonii 1934" ; Times: 5
+	Query: "Rana draytonii 20" ; Times: 4
+	Query: "Malacochersus tornieri" ; Times: 1
+	Query: "lampropeltis pyromelana" ; Times: 5
+	Query: "elaphe dione" ; Times: 1
+	Query: "12353" ; Times: 1
+	Query: "catalognumber:12453" ; Times: 1
+	Query: "british columbia 1883" ; Times: 1
+	Query: "Rana draytonii 55" ; Times: 4
+	Query: "Rana draytonii 54" ; Times: 4
+	Query: "Rana draytonii 56" ; Times: 4
+	Query: "Leiopelma hamiltoni" ; Times: 1
+	Query: "Rana draytonii 1928" ; Times: 5
+	Query: "34814" ; Times: 1
+	Query: "Rana draytonii 853" ; Times: 4
+	Query: "Rana draytonii 9" ; Times: 4
+	Query: "Rana draytonii 8" ; Times: 4
+	Query: "Rana draytonii 4" ; Times: 4
+	Query: "Rana draytonii 287" ; Times: 4
+	Query: "Rana draytonii 1" ; Times: 2
+	Query: "Rana draytonii 0" ; Times: 1
+	Query: "Rana draytonii 3" ; Times: 4
+	Query: "Rana draytonii 2" ; Times: 4
+	Query: "Rana draytonii 120" ; Times: 4
+	Query: "salamandra Salamandra" ; Times: 3
+	Query: "Rana draytonii 122" ; Times: 4
+	Query: "Lampropeltis holbrooki" ; Times: 1
+	Query: "Scincella assata" ; Times: 1
+	Query: "Clemmys guttata mappable:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 60 (out of 1584 download events in this period)
+Total number of records downloaded: 607
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 44
+	Country: Mexico ; Times: 1
+	Country: Tanzania ; Times: 3
+	Country: United Kingdom ; Times: 1
+	Country: China ; Times: 10
+	Country: Belgium ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-29 ; Times: 3
+	Date: 2020-01-02 ; Times: 1
+	Date: 2020-01-01 ; Times: 1
+	Date: 2020-01-07 ; Times: 1
+	Date: 2020-01-06 ; Times: 2
+	Date: 2020-01-04 ; Times: 1
+	Date: 2020-01-14 ; Times: 1
+	Date: 2020-01-10 ; Times: 5
+	Date: 2020-01-16 ; Times: 4
+	Date: 2020-01-31 ; Times: 8
+	Date: 2020-01-25 ; Times: 7
+	Date: 2020-01-24 ; Times: 18
+	Date: 2020-01-28 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "Leiocephalus carinatus" ; Times: 1
+	Query: "Eremias velox" ; Times: 1
+	Query: "Petrosaurus thalassinus" ; Times: 1
+	Query: "Sphaerodactylus cinereus" ; Times: 1
+	Query: "Hemidactylus mabouia" ; Times: 1
+	Query: "locality:&#34;Lake Hemet&#34; county:&#34;Riverside&#34;" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 3
+	Query: "Hemidactylus brookii" ; Times: 4
+	Query: "Gonatodes albogularis" ; Times: 1
+	Query: "Ctenosaura hemilopha" ; Times: 1
+	Query: "cordylidae" ; Times: 1
+	Query: "Ophisaurus ventralis" ; Times: 1
+	Query: "Malacochersus tornieri" ; Times: 4
+	Query: "Uma notata" ; Times: 1
+	Query: "plethodon stormi" ; Times: 1
+	Query: "Iguana iguana" ; Times: 1
+	Query: "Cyclura cornuta" ; Times: 1
+	Query: "plethodon dunni" ; Times: 1
+	Query: "Lacerta agilis" ; Times: 1
+	Query: "Coleonyx elegans" ; Times: 1
+	Query: "Coleonyx variegatus" ; Times: 1
+	Query: "Calotes versicolor" ; Times: 1
+	Query: "Laemanctus serratus" ; Times: 1
+	Query: "Heloderma horridum" ; Times: 1
+	Query: "Anniella pulchra" ; Times: 1
+	Query: "Oxybelis aeneus" ; Times: 1
+	Query: "Basiliscus basiliscus" ; Times: 1
+	Query: "plethodon elongatus" ; Times: 1
+	Query: "Tarentola mauritanica" ; Times: 1
+	Query: "Teratoscincus scincus" ; Times: 1
+	Query: "Gekko gecko" ; Times: 3
+	Query: "Coleonyx mitratus" ; Times: 1
+	Query: "plethodon idahoensis" ; Times: 1
+	Query: "Phelsuma laticauda" ; Times: 1
+	Query: "Phrynosoma coronatum" ; Times: 1
+	Query: "Sphaerodactylus argus" ; Times: 1
+	Query: "Anadia ocellata" ; Times: 1
+	Query: "Tropidonophis" ; Times: 1
+	Query: "Ophisaurus attenuatus" ; Times: 1
+	Query: "Holbrookia approximans" ; Times: 1
+	Query: "Varanus salvator" ; Times: 1
+	Query: "rana draytonii" ; Times: 1
+	Query: "deirochelys" ; Times: 1
+	Query: "Sceloporus orcutti" ; Times: 1
+	Query: "Sphaerodactylus notatus" ; Times: 1
+	Query: "Thecadactylus rapicauda" ; Times: 1
+	Query: "rainier" ; Times: 1
+	Query: "Chamaesaura tenuior" ; Times: 1
+	Query: "Scincella assata" ; Times: 1
+	Query: "Phelsuma madagascariensis" ; Times: 1
+
+
+End of report.
