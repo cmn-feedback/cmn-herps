@@ -1,0 +1,246 @@
+Report for Institution Code CMN, Resource cmn_amphibian_reptile
+Usage stats for October 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 146
+Number of records retrieved in searches: 4306
+Number of different countries where searches have been originated: 16
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 30
+	Country: Philippines ; Times: 1
+	Country: South Africa ; Times: 4
+	Country: Russia ; Times: 1
+	Country: United States ; Times: 84
+	Country: China ; Times: 3
+	Country: Germany ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Belgium ; Times: 1
+	Country: Hungary ; Times: 2
+	Country: Taiwan ; Times: 1
+	Country: Argentina ; Times: 10
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-09 ; Times: 3
+	Date: 2019-10-08 ; Times: 3
+	Date: 2019-10-21 ; Times: 4
+	Date: 2019-10-20 ; Times: 7
+	Date: 2019-10-27 ; Times: 1
+	Date: 2019-10-26 ; Times: 1
+	Date: 2019-10-25 ; Times: 6
+	Date: 2019-10-24 ; Times: 36
+	Date: 2019-10-02 ; Times: 1
+	Date: 2019-10-05 ; Times: 1
+	Date: 2019-10-04 ; Times: 8
+	Date: 2019-10-07 ; Times: 2
+	Date: 2019-10-06 ; Times: 1
+	Date: 2019-10-23 ; Times: 2
+	Date: 2019-10-22 ; Times: 28
+	Date: 2019-10-18 ; Times: 3
+	Date: 2019-10-28 ; Times: 9
+	Date: 2019-10-12 ; Times: 1
+	Date: 2019-10-13 ; Times: 2
+	Date: 2019-10-10 ; Times: 2
+	Date: 2019-10-11 ; Times: 6
+	Date: 2019-10-16 ; Times: 3
+	Date: 2019-10-31 ; Times: 1
+	Date: 2019-10-17 ; Times: 1
+	Date: 2019-10-15 ; Times: 4
+	Date: 2019-10-30 ; Times: 10
+
+List of queries that retrieved data from the resource: 
+	Query: "boa constrictor mappable:1" ; Times: 1
+	Query: "catalognumber:12077" ; Times: 1
+	Query: "Hoplobatrachus tigerinus" ; Times: 2
+	Query: "crotalus lepidus sinaloa" ; Times: 1
+	Query: "10109" ; Times: 1
+	Query: "wizard" ; Times: 1
+	Query: "Sistrurus catenatus 1984" ; Times: 1
+	Query: "T-1484" ; Times: 1
+	Query: "lacertoides" ; Times: 1
+	Query: "sylvaticus Lithobates" ; Times: 9
+	Query: "Anaxyrus quercicus" ; Times: 1
+	Query: "Odontophrynus occidentalis" ; Times: 1
+	Query: "sonora episcopa" ; Times: 1
+	Query: "23763" ; Times: 1
+	Query: "testudo graeca" ; Times: 1
+	Query: "19786" ; Times: 1
+	Query: "catalognumber:2482" ; Times: 2
+	Query: "Drymarchon couperi" ; Times: 1
+	Query: "emydoidea blandingi" ; Times: 1
+	Query: "32783" ; Times: 1
+	Query: "15983" ; Times: 1
+	Query: "acris gryllus maryland" ; Times: 1
+	Query: "Gopherus agassizii 2017" ; Times: 1
+	Query: "lithobates pipiens country:&#34;CANADA&#34; recordedby:schueler" ; Times: 1
+	Query: "Rana japonica" ; Times: 1
+	Query: "32887" ; Times: 1
+	Query: "Drymarchon couperi 2017" ; Times: 1
+	Query: "agrionemys horsfieldii" ; Times: 2
+	Query: "feline" ; Times: 1
+	Query: "Drymarchon couperi 2018" ; Times: 1
+	Query: "Crocodylus acutus 2017" ; Times: 1
+	Query: "Rana draytonii 1986" ; Times: 1
+	Query: "Rana draytonii 1984" ; Times: 1
+	Query: "Rana draytonii 1985" ; Times: 1
+	Query: "Crocodylus acutus 2018" ; Times: 1
+	Query: "ambystoma sinaloa" ; Times: 3
+	Query: "Hyperolius leucotaenius" ; Times: 1
+	Query: "Pseudocordylus" ; Times: 1
+	Query: "Pelophylax nigromaculatus" ; Times: 1
+	Query: "Sistrurus catenatus 2017" ; Times: 1
+	Query: "Hyperolius constellatus" ; Times: 1
+	Query: "Loxocemus bicolor" ; Times: 2
+	Query: "10495" ; Times: 2
+	Query: "R-21808" ; Times: 2
+	Query: "Sistrurus catenatus 1973" ; Times: 1
+	Query: "Sistrurus catenatus 1972" ; Times: 1
+	Query: "Sistrurus catenatus 1974" ; Times: 1
+	Query: "Sistrurus catenatus 1977" ; Times: 1
+	Query: "nubicola" ; Times: 1
+	Query: "Sistrurus catenatus 1979" ; Times: 1
+	Query: "Sistrurus catenatus 1978" ; Times: 1
+	Query: "lithobates aurora" ; Times: 1
+	Query: "catalognumber:1459" ; Times: 1
+	Query: "arborea Hyla" ; Times: 2
+	Query: "macrodactylum Ambystoma" ; Times: 16
+	Query: "Sistrurus catenatus 1988" ; Times: 1
+	Query: "Emydoidea blandingi" ; Times: 2
+	Query: "pyromelana" ; Times: 1
+	Query: "Agrionemys horsfieldii" ; Times: 6
+	Query: "Sistrurus catenatus 1985" ; Times: 1
+	Query: "Sistrurus catenatus 1983" ; Times: 1
+	Query: "conopsis sinaloa" ; Times: 2
+	Query: "Rana draytonii 2017" ; Times: 1
+	Query: "Rana draytonii 2018" ; Times: 1
+	Query: "11817" ; Times: 1
+	Query: "eryx johni" ; Times: 1
+	Query: "Sistrurus catenatus 2018" ; Times: 1
+	Query: "Gopherus agassizii 2018" ; Times: 1
+	Query: "Litoria arfakiana" ; Times: 1
+	Query: "32998" ; Times: 1
+	Query: "Sistrurus catenatus 1990" ; Times: 1
+	Query: "18509" ; Times: 1
+	Query: "17684" ; Times: 1
+	Query: "recordedby:Armitage" ; Times: 1
+	Query: "Odontophrynus americanus" ; Times: 1
+	Query: "pseudocordylus" ; Times: 3
+	Query: "Sistrurus catenatus 1976" ; Times: 1
+	Query: "Ceratophrys ornata" ; Times: 1
+	Query: "28676" ; Times: 1
+	Query: "33502" ; Times: 1
+	Query: "Gopherus agassizii 1983" ; Times: 1
+	Query: "12619" ; Times: 2
+	Query: "Chrysobatrachus cupreonitens" ; Times: 1
+	Query: "catalognumber:31806" ; Times: 1
+	Query: "Glandirana rugosa" ; Times: 1
+	Query: "Nerodia sipedon insularum mappable:1" ; Times: 1
+	Query: "13267" ; Times: 3
+	Query: "yunnanensis Nanorana" ; Times: 1
+	Query: "12953" ; Times: 1
+	Query: "county:&#34;Middlesex&#34; stateprovince:&#34;New Jersey&#34;" ; Times: 2
+	Query: "19803" ; Times: 1
+	Query: "catalognumber:16172" ; Times: 1
+	Query: "Hyperolius chrysogaster" ; Times: 1
+	Query: "Philautus jacobsoni" ; Times: 1
+	Query: "Leiopelma hochstetteri" ; Times: 1
+	Query: "37120" ; Times: 1
+	Query: "Nerodia sipedon insularum" ; Times: 5
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 86 (out of 1308 download events in this period)
+Total number of records downloaded: 67323
+Number of different countries: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Saudi Arabia ; Times: 1
+	Country: Mexico ; Times: 15
+	Country: Unknown ; Times: 36
+	Country: Philippines ; Times: 2
+	Country: India ; Times: 3
+	Country: United States ; Times: 16
+	Country: Rwanda ; Times: 1
+	Country: China ; Times: 7
+	Country: Taiwan ; Times: 1
+	Country: Hong Kong ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-09 ; Times: 2
+	Date: 2019-10-23 ; Times: 14
+	Date: 2019-10-21 ; Times: 4
+	Date: 2019-10-02 ; Times: 2
+	Date: 2019-10-25 ; Times: 2
+	Date: 2019-10-01 ; Times: 1
+	Date: 2019-10-16 ; Times: 2
+	Date: 2019-10-03 ; Times: 30
+	Date: 2019-10-11 ; Times: 1
+	Date: 2019-10-30 ; Times: 1
+	Date: 2019-10-04 ; Times: 3
+	Date: 2019-10-07 ; Times: 4
+	Date: 2019-10-15 ; Times: 3
+	Date: 2019-10-12 ; Times: 1
+	Date: 2019-10-19 ; Times: 4
+	Date: 2019-10-20 ; Times: 8
+	Date: 2019-10-28 ; Times: 1
+	Date: 2019-10-10 ; Times: 2
+	Date: 2019-10-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Phrynobatrachus alleni" ; Times: 1
+	Query: "ophisaurus attenuatus" ; Times: 1
+	Query: "(Rana pipiens) Canada country:&#34;Canada&#34;" ; Times: 1
+	Query: "Lithobates catesbeianus" ; Times: 9
+	Query: "Hemidactylus mabouia" ; Times: 1
+	Query: "Ophiophagus hannah" ; Times: 1
+	Query: "((Lithobates pipiens) Canada)" ; Times: 1
+	Query: "reptilia stateprovince:&#34;Washington&#34;" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 2
+	Query: "Furcifer pardalis" ; Times: 2
+	Query: "eretmochelys imbricata" ; Times: 1
+	Query: "(Lithobates pipiens) Canada" ; Times: 10
+	Query: "sphaerodactylus macrolepis" ; Times: 1
+	Query: "Hyperolius guttulatus" ; Times: 1
+	Query: "(Rana pipiens) Canada" ; Times: 9
+	Query: "reptilia stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "lithobates catesbeianus" ; Times: 4
+	Query: "Rana pipiens country:&#34;Canada&#34;" ; Times: 2
+	Query: "Trimorphodon biscutatus" ; Times: 1
+	Query: "Chrysobatrachus cupreonitens" ; Times: 1
+	Query: "gonatodes albogularis" ; Times: 1
+	Query: "Anaxyrus fowleri" ; Times: 1
+	Query: "Leptopelis modestus" ; Times: 1
+	Query: "Hyperolius concolor" ; Times: 2
+	Query: "(Lithobates pipiens) country:&#34;canada&#34;" ; Times: 1
+	Query: "Hyperolius leucotaenius" ; Times: 2
+	Query: "(Rana pipiens) country:&#34;Canada&#34;" ; Times: 2
+	Query: "Phrynosoma orbiculare" ; Times: 1
+	Query: "testudo graeca" ; Times: 1
+	Query: "Hyperolius constellatus" ; Times: 2
+	Query: "Squamata country:&#34;Madagascar&#34;" ; Times: 1
+	Query: "Hyperolius chrysogaster" ; Times: 2
+	Query: "(Lithobates pipiens) Canada country:&#34;Canada&#34;" ; Times: 1
+	Query: "(Lithobates pipiens) country:&#34;Canada&#34;" ; Times: 2
+	Query: "Varanus salvator" ; Times: 2
+	Query: "ameiva auberi" ; Times: 1
+	Query: "(Rana pipiens) country:&#34;canada&#34;" ; Times: 1
+	Query: "rana pipiens country:&#34;CANADA&#34;" ; Times: 1
+	Query: "Drymarchon couperi" ; Times: 1
+	Query: "Lithobates pipiens country:&#34;Canada&#34;" ; Times: 1
+	Query: "emydoidea blandingi" ; Times: 1
+	Query: "vntype:specimen (Phrynosoma orbiculare) year &gt;= 1950 year &lt;= 2019 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Sonora occipitalis" ; Times: 1
+	Query: "yonahlossee" ; Times: 1
+	Query: "sphaerodactylus argus" ; Times: 1
+	Query: "Lithobates Catesbeianus" ; Times: 1
+	Query: "Hyperolius fusciventris" ; Times: 1
+	Query: "rana pipiens Canada" ; Times: 1
+
+
+End of report.
