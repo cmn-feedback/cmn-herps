@@ -1,0 +1,218 @@
+Report for Institution Code CMN, Resource cmn_amphibian_reptile
+Usage stats for April 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 659
+Number of records retrieved in searches: 7237
+Number of different countries where searches have been originated: 16
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 12
+	Country: India ; Times: 5
+	Country: Australia ; Times: 5
+	Country: Ireland ; Times: 1
+	Country: Singapore ; Times: 1
+	Country: Unknown ; Times: 31
+	Country: South Africa ; Times: 1
+	Country: Montenegro ; Times: 1
+	Country: Peru ; Times: 2
+	Country: United Kingdom ; Times: 48
+	Country: Germany ; Times: 8
+	Country: Spain ; Times: 12
+	Country: Colombia ; Times: 1
+	Country: Brazil ; Times: 3
+	Country: United States ; Times: 527
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-05 ; Times: 8
+	Date: 2020-04-06 ; Times: 15
+	Date: 2020-04-07 ; Times: 23
+	Date: 2020-04-22 ; Times: 2
+	Date: 2020-04-23 ; Times: 8
+	Date: 2020-04-20 ; Times: 194
+	Date: 2020-04-21 ; Times: 100
+	Date: 2020-04-26 ; Times: 2
+	Date: 2020-04-01 ; Times: 9
+	Date: 2020-04-02 ; Times: 5
+	Date: 2020-04-03 ; Times: 10
+	Date: 2020-04-28 ; Times: 9
+	Date: 2020-04-29 ; Times: 12
+	Date: 2020-04-08 ; Times: 3
+	Date: 2020-04-09 ; Times: 2
+	Date: 2020-04-24 ; Times: 6
+	Date: 2020-04-25 ; Times: 4
+	Date: 2020-04-19 ; Times: 54
+	Date: 2020-04-18 ; Times: 35
+	Date: 2020-04-13 ; Times: 3
+	Date: 2020-04-17 ; Times: 35
+	Date: 2020-04-16 ; Times: 40
+	Date: 2020-04-15 ; Times: 48
+	Date: 2020-04-14 ; Times: 25
+	Date: 2020-04-30 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "Heterodon nasicus gloydi stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Crocodylus niloticus" ; Times: 1
+	Query: "Sceloporus undulatus santa rosa county florida" ; Times: 2
+	Query: "Sphenodon" ; Times: 1
+	Query: "(18647)" ; Times: 2
+	Query: "34276" ; Times: 1
+	Query: "catalognumber:26300" ; Times: 1
+	Query: "(dendrobates pictus)" ; Times: 1
+	Query: "Ptychadena porosissima" ; Times: 1
+	Query: "Emys orbicularis" ; Times: 1
+	Query: "36220" ; Times: 1
+	Query: "&#34;A. Baird&#34;" ; Times: 2
+	Query: "pseudacris crucifer mississippi" ; Times: 4
+	Query: "guttata stateprovince:&#34;new york&#34;" ; Times: 1
+	Query: "29346" ; Times: 1
+	Query: "26823" ; Times: 3
+	Query: "22916" ; Times: 1
+	Query: "Lithobates berlandieri" ; Times: 4
+	Query: "Anguis fragilis" ; Times: 1
+	Query: "Osteocephalus taurinus" ; Times: 7
+	Query: "26821" ; Times: 2
+	Query: "(10009)" ; Times: 1
+	Query: "25093" ; Times: 1
+	Query: "Glyptemys insculpta." ; Times: 30
+	Query: "26886" ; Times: 2
+	Query: "crotalus county:&#34;clearfield&#34; stateprovince:&#34;pennsylvania&#34;" ; Times: 1
+	Query: "13890" ; Times: 2
+	Query: "Rhinella arenarum" ; Times: 3
+	Query: "Chersina angulata" ; Times: 1
+	Query: "wizard" ; Times: 2
+	Query: "eunectes murinus" ; Times: 1
+	Query: "Pseudacris Crucifer Mississippi" ; Times: 2
+	Query: "Eleutherodactylus orcutti" ; Times: 1
+	Query: "anaxyrus americanus louisiana" ; Times: 1
+	Query: "Podocnemis unifilis" ; Times: 6
+	Query: "Sceloporus undulatus santa rosa county" ; Times: 1
+	Query: "scincella lateralis louisiana" ; Times: 3
+	Query: "Paleosuchus palpebrosus" ; Times: 2
+	Query: "chelydra serpentina ouachita louisiana" ; Times: 1
+	Query: "Rana temporaria" ; Times: 8
+	Query: "chelydra serpentina louisiana" ; Times: 1
+	Query: "crotalus horridus stateprovince:&#34;new york&#34;" ; Times: 1
+	Query: "(18677)" ; Times: 1
+	Query: "Incilius valliceps" ; Times: 10
+	Query: "Eleutherodactylus cundalli" ; Times: 1
+	Query: "Eleutherodactylus nubicola" ; Times: 1
+	Query: "Glyptemys insculpta" ; Times: 422
+	Query: "23472" ; Times: 1
+	Query: "26884" ; Times: 2
+	Query: "anolis carolinensis mississippi" ; Times: 2
+	Query: "30985" ; Times: 1
+	Query: "python reticulatus" ; Times: 5
+	Query: "Phrynobatrachus latifrons" ; Times: 4
+	Query: "36314" ; Times: 1
+	Query: "Veracruz mirador mexico" ; Times: 1
+	Query: "opheodrys aestivus ouachita louisiana" ; Times: 1
+	Query: "lithobates clamitans louisiana" ; Times: 1
+	Query: "18103" ; Times: 2
+	Query: "country:Ecuador scientificname:Leptodeira annulata " ; Times: 1
+	Query: "26816" ; Times: 3
+	Query: "Anolis carolinensis Escambia county Florida" ; Times: 1
+	Query: "lucifuga stateprovince:&#34;west virginia&#34;" ; Times: 1
+	Query: "(18642)" ; Times: 2
+	Query: "nanorana yunnanensis" ; Times: 6
+	Query: "Triturus cristatus" ; Times: 2
+	Query: "Kinosternon steindachneri" ; Times: 1
+	Query: "hemidactylus turcicus louisiana" ; Times: 1
+	Query: "lacerta agilis" ; Times: 1
+	Query: "CMN 23472" ; Times: 1
+	Query: "Pelomedusa subrufa" ; Times: 4
+	Query: "crucifer mississippi" ; Times: 3
+	Query: "phenops" ; Times: 1
+	Query: "Eleutherodactylus andrewsi" ; Times: 1
+	Query: "hyla cinerea louisiana" ; Times: 2
+	Query: "aneides stateprovince:&#34;west virginia&#34;" ; Times: 1
+	Query: "pseudacris crucifer Mississippi" ; Times: 1
+	Query: "Sternotherus odoratus mississippi" ; Times: 1
+	Query: "catalognumber:6129" ; Times: 1
+	Query: "Pseudacris crucifer Scott County" ; Times: 1
+	Query: "glyptemys insculpta" ; Times: 53
+	Query: "Lampropeltis holbrooki" ; Times: 1
+	Query: "nuntius coconino" ; Times: 1
+	Query: "chelydra serpentina mississippi" ; Times: 1
+	Query: "Eleutherodactylus luteolus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 43 (out of 1171 download events in this period)
+Total number of records downloaded: 3742
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Turkey ; Times: 1
+	Country: Australia ; Times: 10
+	Country: Mexico ; Times: 4
+	Country: Panama ; Times: 1
+	Country: United States ; Times: 22
+	Country: Netherlands ; Times: 1
+	Country: Kenya ; Times: 1
+	Country: Spain ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-04 ; Times: 2
+	Date: 2020-04-19 ; Times: 4
+	Date: 2020-04-18 ; Times: 6
+	Date: 2020-04-05 ; Times: 1
+	Date: 2020-04-13 ; Times: 1
+	Date: 2020-04-12 ; Times: 3
+	Date: 2020-04-10 ; Times: 3
+	Date: 2020-04-16 ; Times: 2
+	Date: 2020-04-14 ; Times: 2
+	Date: 2020-04-22 ; Times: 2
+	Date: 2020-04-30 ; Times: 1
+	Date: 2020-04-20 ; Times: 4
+	Date: 2020-04-07 ; Times: 2
+	Date: 2020-04-01 ; Times: 1
+	Date: 2020-04-06 ; Times: 1
+	Date: 2020-04-29 ; Times: 3
+	Date: 2020-04-08 ; Times: 1
+	Date: 2020-04-09 ; Times: 3
+	Date: 2020-04-27 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Crocodylus niloticus" ; Times: 1
+	Query: "emydoidea" ; Times: 3
+	Query: "trachemys scripta elegans" ; Times: 1
+	Query: "plethodon cinereus" ; Times: 2
+	Query: "Thamnophis ordinoides" ; Times: 1
+	Query: "Nerodia floridana" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 2
+	Query: "crocodylus acutus" ; Times: 1
+	Query: "herpele squalostoma" ; Times: 1
+	Query: "&#34;Iguana iguana&#34;" ; Times: 1
+	Query: "dermochelys coriacea" ; Times: 1
+	Query: "thamnophis eques" ; Times: 1
+	Query: "Charina bottae" ; Times: 1
+	Query: "Eleutherodactylus" ; Times: 1
+	Query: "agkistrodon bilineatus" ; Times: 1
+	Query: "eretmochelys" ; Times: 1
+	Query: "Salamandra salamandra" ; Times: 1
+	Query: "Cryptobranchus alleganiensis" ; Times: 1
+	Query: "elaphe dione" ; Times: 1
+	Query: "Lacerta viridis" ; Times: 1
+	Query: "(dendrobates pictus)" ; Times: 1
+	Query: "chelonia mydas" ; Times: 1
+	Query: "blandingii" ; Times: 1
+	Query: "Anaxyrus boreas" ; Times: 1
+	Query: "heloderma suspectum" ; Times: 3
+	Query: "crotalus atrox" ; Times: 1
+	Query: "clelia clelia" ; Times: 1
+	Query: "Lampropeltis holbrooki" ; Times: 1
+	Query: "Kinosternon steindachneri" ; Times: 1
+	Query: "Pseudemys peninsularis" ; Times: 1
+	Query: "Masticophis taeniatus" ; Times: 1
+	Query: "mud turtle" ; Times: 1
+	Query: "caiman crocodilus" ; Times: 1
+	Query: "Paleosuchus palpebrosus" ; Times: 1
+	Query: "Rana luteiventris" ; Times: 1
+	Query: "hynobius" ; Times: 1
+	Query: "Rhyacotriton" ; Times: 1
+
+
+End of report.
