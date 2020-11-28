@@ -1,0 +1,74 @@
+Report for Institution Code CMN, Resource cmn_amphibian_reptile
+Usage stats for June 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 55
+Number of records retrieved in searches: 2506
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: South Africa ; Times: 1
+	Country: United States ; Times: 47
+	Country: Slovakia ; Times: 1
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-23 ; Times: 5
+	Date: 2020-06-24 ; Times: 2
+	Date: 2020-06-09 ; Times: 3
+	Date: 2020-06-06 ; Times: 3
+	Date: 2020-06-07 ; Times: 1
+	Date: 2020-06-04 ; Times: 5
+	Date: 2020-06-05 ; Times: 2
+	Date: 2020-06-02 ; Times: 1
+	Date: 2020-06-03 ; Times: 1
+	Date: 2020-06-10 ; Times: 1
+	Date: 2020-06-15 ; Times: 1
+	Date: 2020-06-28 ; Times: 30
+
+List of queries that retrieved data from the resource: 
+	Query: "phrynocephalus maculatus" ; Times: 1
+	Query: "ptyas mucosus india" ; Times: 2
+	Query: "ahaetulla nasuta india" ; Times: 2
+	Query: "Crotalus concolor" ; Times: 1
+	Query: "echis carinatus india" ; Times: 2
+	Query: "catalognumber:36168" ; Times: 2
+	Query: "Phelsuma guentheri" ; Times: 1
+	Query: "catalognumber:25187" ; Times: 1
+	Query: "scientificname:emydoidea blandingii" ; Times: 37
+	Query: "37841" ; Times: 1
+	Query: "Lithobates heckscheri" ; Times: 1
+	Query: "lampropeltis alterna" ; Times: 1
+	Query: "catalognumber: 3742" ; Times: 1
+	Query: "catalognumber:19611" ; Times: 1
+	Query: "Lampropeltis alterna" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 7 (out of 474 download events in this period)
+Total number of records downloaded: 2388
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-04 ; Times: 1
+	Date: 2020-06-05 ; Times: 1
+	Date: 2020-06-02 ; Times: 2
+	Date: 2020-06-09 ; Times: 1
+	Date: 2020-06-01 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "muskrat" ; Times: 1
+	Query: "locality:kentucky" ; Times: 1
+	Query: "Lithobates catesbeianus" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 1
+	Query: "Ambystoma maculatum" ; Times: 2
+	Query: "heloderma suspectum" ; Times: 1
+
+
+End of report.
