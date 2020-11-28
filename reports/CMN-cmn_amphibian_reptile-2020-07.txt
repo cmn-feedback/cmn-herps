@@ -1,0 +1,215 @@
+Report for Institution Code CMN, Resource cmn_amphibian_reptile
+Usage stats for July 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 203
+Number of records retrieved in searches: 1686
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: Brazil ; Times: 2
+	Country: Ireland ; Times: 1
+	Country: Australia ; Times: 2
+	Country: Peru ; Times: 4
+	Country: Mexico ; Times: 4
+	Country: Finland ; Times: 7
+	Country: France ; Times: 1
+	Country: United States ; Times: 161
+	Country: Germany ; Times: 12
+	Country: Colombia ; Times: 2
+	Country: Ecuador ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-23 ; Times: 2
+	Date: 2020-07-08 ; Times: 4
+	Date: 2020-07-21 ; Times: 9
+	Date: 2020-07-20 ; Times: 1
+	Date: 2020-07-27 ; Times: 1
+	Date: 2020-07-25 ; Times: 1
+	Date: 2020-07-22 ; Times: 6
+	Date: 2020-07-01 ; Times: 2
+	Date: 2020-07-03 ; Times: 10
+	Date: 2020-07-02 ; Times: 5
+	Date: 2020-07-05 ; Times: 4
+	Date: 2020-07-07 ; Times: 3
+	Date: 2020-07-06 ; Times: 3
+	Date: 2020-07-24 ; Times: 2
+	Date: 2020-07-29 ; Times: 47
+	Date: 2020-07-19 ; Times: 2
+	Date: 2020-07-12 ; Times: 1
+	Date: 2020-07-13 ; Times: 2
+	Date: 2020-07-10 ; Times: 3
+	Date: 2020-07-11 ; Times: 2
+	Date: 2020-07-16 ; Times: 3
+	Date: 2020-07-31 ; Times: 5
+	Date: 2020-07-28 ; Times: 10
+	Date: 2020-07-30 ; Times: 75
+
+List of queries that retrieved data from the resource: 
+	Query: "Plethodon stormi" ; Times: 2
+	Query: "Eurycea longicauda" ; Times: 3
+	Query: "Plethodon dunni" ; Times: 2
+	Query: "11825" ; Times: 1
+	Query: "Serpentes hybrid" ; Times: 5
+	Query: "Bolitoglossa macrinii" ; Times: 3
+	Query: "catalognumber:37676" ; Times: 1
+	Query: "Plethodon mississippi" ; Times: 1
+	Query: "wizard" ; Times: 3
+	Query: "Plethodon idahoensis" ; Times: 2
+	Query: "Plethodon yonahlossee" ; Times: 1
+	Query: "32839" ; Times: 1
+	Query: "27204" ; Times: 1
+	Query: "thamnophis radix south dakota" ; Times: 2
+	Query: "corallus caninus peru" ; Times: 3
+	Query: "Aneides vagrans" ; Times: 8
+	Query: "Nerodia erythrogaster cherokee kansas" ; Times: 2
+	Query: "Hemidactylium scutatum" ; Times: 3
+	Query: "Chiropterotriton chondrostega" ; Times: 3
+	Query: "19863" ; Times: 1
+	Query: "Desmognathus auriculatus" ; Times: 3
+	Query: "23686" ; Times: 2
+	Query: "13459" ; Times: 1
+	Query: "Crocodylus acutus 2018" ; Times: 2
+	Query: "Dermochelys coriacea mappable:1" ; Times: 1
+	Query: "crotalus tigris" ; Times: 1
+	Query: "catalognumber:2201 year &gt;= 1932" ; Times: 1
+	Query: "catalognumber:16553" ; Times: 1
+	Query: "anilius" ; Times: 1
+	Query: "35921" ; Times: 1
+	Query: "Bolitoglossa platydactyla" ; Times: 3
+	Query: "Batrachoseps wrighti" ; Times: 5
+	Query: "Eurycea lucifuga" ; Times: 2
+	Query: "recordedby:bristow" ; Times: 1
+	Query: "Plethodon shenandoah" ; Times: 2
+	Query: "catalognumber:7478" ; Times: 1
+	Query: "chironius carinatus" ; Times: 1
+	Query: "Plethodon hoffmani" ; Times: 2
+	Query: "Aneides aeneus" ; Times: 12
+	Query: "Eurycea bislineata" ; Times: 3
+	Query: "Bolitoglossa rufescens" ; Times: 1
+	Query: "crotalus lepidus klauberi" ; Times: 1
+	Query: "eleutherodactylus johnstonei mappable:1" ; Times: 1
+	Query: "Hyla avivoca" ; Times: 1
+	Query: "28482" ; Times: 1
+	Query: "Crocodylus acutus 2017" ; Times: 2
+	Query: "lampropeltis alterna" ; Times: 1
+	Query: "Desmognathus monticola" ; Times: 3
+	Query: "Eurycea cirrigera" ; Times: 1
+	Query: "Bolitoglossa biseriata" ; Times: 5
+	Query: "Pelophylax nigromaculatus" ; Times: 1
+	Query: "Eunectes murinus murinus" ; Times: 1
+	Query: "19966" ; Times: 1
+	Query: "Aneides lugubris" ; Times: 2
+	Query: "Buergeria buergeri" ; Times: 1
+	Query: "Nerodia erythrogaster Cherokee kansas" ; Times: 1
+	Query: "Eurycea wilderae" ; Times: 2
+	Query: "septentrionalis quebec gaspe" ; Times: 1
+	Query: "Plethodon wehrlei" ; Times: 1
+	Query: "Squamata hybrid" ; Times: 1
+	Query: "Pseudotriton montanus" ; Times: 3
+	Query: "Pseudoeurycea leprosa" ; Times: 1
+	Query: "Desmognathus carolinensis" ; Times: 5
+	Query: "Plethodon elongatus" ; Times: 1
+	Query: "santa rita panama" ; Times: 1
+	Query: "Plethodon chattahoochee" ; Times: 1
+	Query: "27947" ; Times: 2
+	Query: "Plethodon metcalfi" ; Times: 2
+	Query: "corallus" ; Times: 1
+	Query: "corallus caninus" ; Times: 5
+	Query: "Adirondacks" ; Times: 1
+	Query: "19825" ; Times: 1
+	Query: "Desmognathus quadramaculatus" ; Times: 2
+	Query: "Pseudotriton ruber" ; Times: 2
+	Query: "Plethodon richmondi" ; Times: 4
+	Query: "pipiens missouri" ; Times: 3
+	Query: "ophisaurus texas" ; Times: 1
+	Query: "crotalus mitchelli" ; Times: 1
+	Query: "Anaxyrus hemiophrys" ; Times: 1
+	Query: "hyla versicolor wisconsin" ; Times: 1
+	Query: "Lampropeltis alterna" ; Times: 3
+	Query: "Gyrinophilus porphyriticus" ; Times: 4
+	Query: "crotalus lepidus lepidus" ; Times: 1
+	Query: "20502" ; Times: 1
+	Query: "28567" ; Times: 1
+	Query: "Aneides ferreus" ; Times: 1
+	Query: "21252" ; Times: 1
+	Query: "23630" ; Times: 1
+	Query: "Plethodon vehiculum" ; Times: 3
+	Query: "28078" ; Times: 2
+	Query: "37676" ; Times: 1
+	Query: "septentrionalis quebec" ; Times: 1
+	Query: "Retiformis" ; Times: 1
+	Query: "Plethodon glutinosus" ; Times: 1
+	Query: "Plethodon jordani" ; Times: 1
+	Query: "hyla versicolor columbia" ; Times: 1
+	Query: "Hyla gratiosa" ; Times: 1
+	Query: "21099" ; Times: 1
+	Query: "13627" ; Times: 1
+	Query: "hyla versicolor columbia wisconsin" ; Times: 1
+	Query: "Eurycea quadridigitata" ; Times: 2
+	Query: "Acris blanchardi Cherokee kansas" ; Times: 1
+	Query: "Desmognathus wrighti" ; Times: 1
+	Query: "heterodon arizona" ; Times: 1
+	Query: "Pseudacris brimleyi" ; Times: 1
+	Query: "Pseudacris kalmi" ; Times: 2
+	Query: "Aneides flavipunctatus" ; Times: 1
+	Query: "Anaxyrus americanus Cherokee kansas" ; Times: 2
+	Query: "Scincella assata" ; Times: 1
+	Query: "Regina Cherokee County Kansas" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 22 (out of 940 download events in this period)
+Total number of records downloaded: 8000
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: United States ; Times: 11
+	Country: Australia ; Times: 4
+	Country: Canada ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Vietnam ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-09 ; Times: 1
+	Date: 2020-07-22 ; Times: 1
+	Date: 2020-07-21 ; Times: 1
+	Date: 2020-07-19 ; Times: 2
+	Date: 2020-07-27 ; Times: 2
+	Date: 2020-07-26 ; Times: 1
+	Date: 2020-07-24 ; Times: 1
+	Date: 2020-07-13 ; Times: 5
+	Date: 2020-07-10 ; Times: 1
+	Date: 2020-07-11 ; Times: 1
+	Date: 2020-07-31 ; Times: 1
+	Date: 2020-07-07 ; Times: 2
+	Date: 2020-07-15 ; Times: 1
+	Date: 2020-07-20 ; Times: 1
+	Date: 2020-07-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "elapidae" ; Times: 1
+	Query: "Plethodon vehiculum" ; Times: 1
+	Query: "bat year &gt;= 1899 year &lt;= 2020 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "Thecadactylus rapicauda" ; Times: 1
+	Query: "Anolis sagrei" ; Times: 1
+	Query: "Viperidae" ; Times: 1
+	Query: "Storeria dekayi" ; Times: 1
+	Query: "Osteopilus septentrionalis" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 3
+	Query: "viperidae" ; Times: 1
+	Query: "rhinella marina" ; Times: 1
+	Query: "chironius carinatus" ; Times: 1
+	Query: "Colubridae" ; Times: 1
+	Query: "Chelydra serpentina" ; Times: 1
+	Query: "coluber constrictor" ; Times: 1
+	Query: "Lampropeltis splendida" ; Times: 1
+	Query: "hyla versicolor wisconsin" ; Times: 1
+	Query: "Scincella assata" ; Times: 1
+	Query: "Clelia clelia" ; Times: 2
+
+
+End of report.
